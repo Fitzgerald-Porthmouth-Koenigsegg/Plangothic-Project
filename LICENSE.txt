@@ -1,3 +1,5 @@
+Copyright 2020-2021 Plangothic project, with Reserved Font Names "Plangothic", "Tanshic", "遍黑" and "唐什".
+
 Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
 Name 'Source'. Source is a trademark of Adobe in the United States
 and/or other countries.
