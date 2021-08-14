@@ -1,4 +1,5 @@
-Copyright 2020-2021 Plangothic project (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic, https://jq.qq.com/?_wv=1027&k=xRTzFAfD), with Reserved Font Names "Plangothic", "Tanshic", "遍黑" and "唐什".
+Copyright 2020-2021 Plangothic project (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic,
+https://jq.qq.com/?_wv=1027&k=xRTzFAfD), with Reserved Font Names "Plangothic", "Tanshic", "遍黑" and "唐什".
 
 Copyright 2019-2021 Tamcy (https://github.com/chiron-fonts/chiron-sans-hk), with Reserved Font
 Name 'Chiron' and '昭源'.
