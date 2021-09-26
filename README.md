@@ -14,6 +14,16 @@
 本字体和其子字体基于SIL Open Font License修改补充思源黑体。
 
 本字体和其子字体使用SIL Open Font License发布。详见[授权文件](LICENSE.txt)。
+## 使用规约
+遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。未经本人同意，严禁更改里面的部分或全部内容，如执意要进行更改，则需征得原作者同意并标明来源，或者不以遍黑体项目的名义进行发布。
+### 联系方式
+- GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
+- Twitter: https://twitter.com/Fitzgerald_P_K_
+- 字形维基: http://zhs.glyphwiki.org/wiki/User:fitzgerald
+- QQ邮箱: 374601620@qq.com
+- QQ: 374601620
+- Gmail: fitzgeraldkoenigsegg@gmail.com
+- Telegram: @Fitzgerald_P_K
 # 子项目：Tanshic Project（唐什项目）
 唐什项目早在2021年初便有开工的想法，但因诸多不可抗拒力，直到现在仍未能实际开工。该项目原本的最终目的是制作出黑体的西夏文字（包括西夏文字本体和部件）和契丹小字（包括带填充符的组合字形式）。而现在唐什项目已支持截止到Unicode 14.0较新的绝大多数字符（均为目前的Noto字体所不能支持的）。也许其未来的最终目的会变成扩大到尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体。
 
