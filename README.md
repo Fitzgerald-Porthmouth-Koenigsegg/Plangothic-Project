@@ -14,9 +14,9 @@
 本字体和其子字体基于SIL Open Font License修改补充思源黑体。
 
 本字体和其子字体使用SIL Open Font License发布。详见[授权文件](LICENSE.txt)。
-## 使用规约
+
 遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。未经本人同意，严禁更改里面的部分或全部内容，如执意要进行更改，则需征得原作者同意并标明来源，或者不以遍黑体项目的名义进行发布。
-### 联系方式
+## 联系方式
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_
 - 字形维基: http://zhs.glyphwiki.org/wiki/User:fitzgerald
