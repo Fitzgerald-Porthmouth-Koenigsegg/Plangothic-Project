@@ -1,6 +1,6 @@
 # Plangothic Project（遍黑体项目）
 ## 概述
-遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行字符扩展及补充的项目。该项目由本人在大约2020年6月份所开启，其最终目标是尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体。
+遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行字符扩展及补充的项目。该项目由本人在大约2020年6月份所开启，其最终目标是尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
 ## 收录范围
 需注意：一个字体文件所能容纳的字符数量有限，因此遍黑体项目分成了两个字体。其中Part1以中日韩統一表意文字为主，Part2以尽可能补全Unicode为主。
 ### Part1收录范围
