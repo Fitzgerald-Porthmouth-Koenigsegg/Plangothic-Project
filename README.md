@@ -36,7 +36,7 @@
 遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。未经本人同意，严禁更改里面的部分或全部内容，如执意要进行更改，则需征得原作者同意并标明来源。
 ## 联系方式
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
-- Twitter: https://twitter.com/Fitzgerald_P_K_
+- Twitter: https://twitter.com/Fitzgerald_P_K_/
 - 字形维基: http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - QQ邮箱: 374601620@qq.com
 - QQ: 374601620
