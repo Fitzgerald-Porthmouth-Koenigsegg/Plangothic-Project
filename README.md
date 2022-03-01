@@ -29,11 +29,11 @@
 
 本群长期招贤纳士，你可以动用自己的一份力，让身边更多的人了解这样的一个企划，亦欢迎会制作字体的技术型人才，遍黑体项目未来的发展离不开你的宣传和鼓励。
 ## 字体授权
-本字体和其子字体基于SIL Open Font License修改补充思源黑体。
+本字体基于SIL Open Font License修改、补充思源黑体和发布。详见[授权文件](LICENSE.txt)。
 
-本字体和其子字体使用SIL Open Font License发布。详见[授权文件](LICENSE.txt)。
+遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。但请注意，在进行二次修改时，严禁再使用“Plangothic”、“遍黑体”等名称，二次修改过后的版本亦必须以SIL Open Font License发表。
 
-遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用，在进行二次修改时注明来源即可。
+严禁任何个人、企业、团队对该字体文件进行售卖（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。
 ## 联系方式
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
