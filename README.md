@@ -1,3 +1,4 @@
+![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 # Plangothic Project（遍黑体项目）
 ## 概述
 遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行字符扩展及补充的项目。该项目由本人在大约2020年6月份所开启，其最终目标是尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
@@ -27,13 +28,22 @@
 ## 制作要求
 任何人都可以参与到遍黑体项目的制作过程当中。可加入QQ群[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)，来对本项目进行更详细的商讨和质询。
 
-本群长期招贤纳士，你可以动用自己的一份力，让身边更多的人了解这样的一个企划，亦欢迎会制作字体的技术型人才，遍黑体项目未来的发展离不开你的宣传和鼓励。
+本群长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解这样的一个企划，亦欢迎会制作字体的技术型人才，遍黑体项目未来的发展离不开你的宣传和鼓励。
 ## 字体授权
 本字体基于SIL Open Font License修改、补充思源黑体和发布。详见[授权文件](LICENSE.txt)。
 
 遍黑体项目下所有的字体，任何个人、企业、团队皆可免费使用。但请注意，在进行二次修改时，严禁再使用“Plangothic”、“遍黑体”等名称，二次修改过后的版本亦必须以SIL Open Font License发表。
 
 严禁任何个人、企业、团队对该字体文件进行售卖（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。
+## 支持我们
+遍黑体项目制作难度巨大，制作时间很长，若愿意支持我们，在此致以诚挚感谢！您的捐助可以帮助遍黑体项目以更好的方向发展。若您因为种种原因无法进行捐助，您仍可以通过其他方式为此项目做出贡献，如帮助检查错误字形、对不美观字形提出自己的改进意见等，正所谓“不积跬步，无以至千里，不积小流，无以成江海”。
+
+在您捐助之前请务必注意以下几点：
+- 捐款前请务必仔细确付款账户（支付宝：Fitzgerald K.、微信：㘜䘈䚖䜚䟐䠪䀌䆐䉵䎚䑇䒐🙃。如用户名有改动，则第一时间会做出更正），网站无法承担您受骗的损失。目前只有这一个页面是正式的受捐页面。如果您在其它地方看到此项目的捐款链接，请立刻对其进行举报，必要时可协助相关司法机关。
+- 您向本项目捐助，即默认表明您赞同我们的理念，并愿意以此种方式支持我们的发展。捐助者提出的意见会被认真考虑，但捐款再多也没有权利以个人意志改变本项目的宗旨和公益性质。
+- 捐助后如愿意，可留言写明您的捐款时间和金额，感谢您对本项目的支持。
+- 所有捐助资金均会逐一记录，并将全部用于该项目的技术支持等开销，不会被私用。
+![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1521103158372.jpg)![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/mm_facetoface_collect_qrcode_1507538656038.png)
 ## 联系方式
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
