@@ -43,7 +43,7 @@
 - 您向本项目捐助，即默认表明您赞同我们的理念，并愿意以此种方式支持我们的发展。捐助者提出的意见会被认真考虑，但捐款再多也没有权利以个人意志改变本项目的宗旨和公益性质。
 - 捐助后如愿意，可留言写明您的捐款时间和金额，感谢您对本项目的支持。
 - 所有捐助资金均会逐一记录，并将全部用于该项目的技术支持等开销，不会被私用。
-![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1521103158372.jpg)![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/mm_facetoface_collect_qrcode_1507538656038.png)
+![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
 ## 联系方式
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
