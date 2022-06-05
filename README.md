@@ -1,7 +1,7 @@
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 # Plangothic Project（遍黑体项目）
 ## 概述
-遍黑体（世界语：Planogotiko；道本语：sitelen Pankosi）是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行字符扩展及补充的项目。该项目由本人在大约2020年6月份所开启，其最终目标是尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
+遍黑体是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行字符扩展及补充的项目。该项目由本人在大约2020年6月份所开启，其最终目标是尽可能补全整个Unicode，并制作出一部分原本没有黑体风格字符的黑体（以中日韩統一表意文字为主）。
 ## 收录范围
 需注意：一个字体文件所能容纳的字符数量有限，因此遍黑体项目分成了两个字体。其中Part1以中日韩統一表意文字为主，Part2以尽可能补全Unicode为主。
 ### Part1收录范围
@@ -12,13 +12,29 @@
 - 假名补充，假名扩展，小型假名扩展
 - 中日韩統一表意文字扩展B区，扩展C区，扩展D区，扩展E区，扩展F区
 - 部分中日韩統一表意文字兼容区和兼容补充区的汉字
-- 其他各处搜寻到的目前尚未收录进Unicode的汉字
+- 其他各处搜寻到的目前尚未收录进Unicode的汉字（详见下方「私用区收录范围」）
 ### Part2收录范围
 - C0, C1控制字符
 - ASCII字符
 - 大量的大部分终端所不能支持的基本平面和第一平面字符（包括东亚、南亚、西亚的文字，以及一些其他符号等）
 - 中日韩統一表意文字扩展G区，扩展H区（草案）
-- 其他各处搜寻到的目前尚未收录进Unicode的汉字
+- 其他各处搜寻到的目前尚未收录进Unicode的汉字（详见下方「私用区收录范围」）
+### 私用区收录范围
+- 全宋体私用区（已剔除目前已经加入Unicode的汉字）
+- Sinzengo所作二简字（大多为《第二次汉字简化方案（草案）》第二表中目前没有加入Unicode的汉字）
+- 使用Glyphwiki（字形维基）所作目前没有加入Unicode的变体假名
+- 《说文》小篆
+- 中华书局宋一私用区（已剔除目前已经加入Unicode的汉字）
+- 隙间黑体（SukimaGothic）私用区
+- David Evillious所作维基风格注音符号扩展（已剔除目前已经加入Unicode的汉字）
+- @Hulenkius 所作窄仓颉字母
+- @Hulenkius 所作带圈字符区块简写
+- 喃那宋（NomNaTong）私用区
+- Han-Nom Minh（汉喃明）私用区（以及@Hulenkius 所作细明体风格重制）
+- BabelStone（巴别石）私用区（已剔除目前已经加入Unicode的汉字）
+- Sawndip（古壮字字体）的私用区（已剔除目前已经加入Unicode的汉字）
+- 中国大百科全书内置字体的私用区（已剔除目前已经加入Unicode的汉字）
+- 其他各处搜寻到的来源无法考证并且目前尚未收录进Unicode的汉字
 ## 字体特色
 - 已支持截止到Unicode 14.0较新的绝大多数字符。
 - 字体本身的风格以思源黑体为蓝本。
