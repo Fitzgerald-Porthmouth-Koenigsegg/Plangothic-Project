@@ -24,9 +24,9 @@
 - Sinzengo所作二简字（大多为《第二次汉字简化方案（草案）》第二表中目前没有加入Unicode的汉字）
 - 使用Glyphwiki（字形维基）所作目前没有加入Unicode的变体假名
 - 《说文》小篆
-- 中华书局宋一私用区（已剔除目前已经加入Unicode的汉字）
+- 中华书局宋一私用区
 - 隙间黑体（SukimaGothic）私用区
-- David Evillious所作维基风格注音符号扩展（已剔除目前已经加入Unicode的汉字）
+- David Evillious所作维基风格注音符号扩展（已剔除目前已经加入Unicode的符号）
 - [Hulenkius](https://github.com/Hulenkius)所作窄仓颉字母
 - [Hulenkius](https://github.com/Hulenkius)所作带圈字符区块简写
 - [喃那宋（NomNaTong）](https://github.com/nomfoundation/font)私用区
