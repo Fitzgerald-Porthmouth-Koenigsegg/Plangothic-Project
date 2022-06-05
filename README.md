@@ -27,10 +27,10 @@
 - 中华书局宋一私用区（已剔除目前已经加入Unicode的汉字）
 - 隙间黑体（SukimaGothic）私用区
 - David Evillious所作维基风格注音符号扩展（已剔除目前已经加入Unicode的汉字）
-- Hulenkius所作窄仓颉字母
-- Hulenkius所作带圈字符区块简写
+- [Hulenkius](https://github.com/Hulenkius)所作窄仓颉字母
+- [Hulenkius](https://github.com/Hulenkius)所作带圈字符区块简写
 - [喃那宋（NomNaTong）](https://github.com/nomfoundation/font)私用区
-- Han-Nom Minh（汉喃明）私用区（以及Hulenkius所作细明体风格重制）
+- Han-Nom Minh（汉喃明）私用区（以及[Hulenkius](https://github.com/Hulenkius)所作细明体风格重制）
 - BabelStone（巴别石）私用区（已剔除目前已经加入Unicode的汉字）
 - Sawndip（古壮字字体）的私用区（已剔除目前已经加入Unicode的汉字）
 - 中国大百科全书内置字体的私用区（已剔除目前已经加入Unicode的汉字）
