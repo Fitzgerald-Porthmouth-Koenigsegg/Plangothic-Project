@@ -45,6 +45,12 @@
 任何人都可以参与到遍黑体项目的制作过程当中。可加入QQ群[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)，来对本项目进行更详细的商讨和质询。
 
 本群长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解这样的一个企划，亦欢迎会制作字体的技术型人才，遍黑体项目未来的发展离不开你的宣传和鼓励。
+### 主要贡献者
+- 主制作：[FIZ](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[HLK](https://github.com/Hulenkius)
+- 联合制作：[SMM](https://github.com/SomeyaMako)、MAT、SCH、CKG
+- 其他协助：[AAF](https://github.com/0xAA55)、[HNC](https://github.com/hfhchan)、ESC
+- 过往贡献者：SZG、ITM、BNZ、AKT
+另外还有不少曾经对遍黑体给予技术支持，但退出了本项目并且无法考证姓名的人员，我们为他们的离去而感到遗憾，也在此对他们参与遍黑体的制作予以感谢，
 ## 字体授权
 本字体基于SIL Open Font License修改、补充思源黑体和发布。详见[授权文件](LICENSE.txt)。
 
