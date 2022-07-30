@@ -62,7 +62,7 @@
 - 主制作：[FIZ](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[HLK](https://github.com/Hulenkius)
 - 联合制作：[SMM](https://github.com/SomeyaMako)、MAT、SCH、CKG
 - 其他协助：[AAF](https://github.com/0xAA55)、[HNC](https://github.com/hfhchan)、ESC
-- 过往贡献者：SZG、ITM、BNZ、AKT
+- 过往贡献者：SZG、ITM、BNZ、[AKT](https://github.com/Honoka55)
 
 另外还有不少曾经对遍黑体项目给予相应支持、参与制作，但退出了本项目并且无法考证姓名的人员，我们为他们的离去而感到遗憾，也在此对他们予以感谢，祝愿他们前程似锦。
 
