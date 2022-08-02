@@ -47,4 +47,3 @@
 - QQ邮箱: 374601620@qq.com
 - QQ: 374601620
 - Gmail: fitzgeraldkoenigsegg@gmail.com
-- Telegram: @Fitzgerald_P_K
