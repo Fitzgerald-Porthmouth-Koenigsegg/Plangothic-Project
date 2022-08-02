@@ -3,7 +3,7 @@
 # Plangothic Project（遍黑体项目）
 
 ## 概述
-遍黑体项目的目标是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)的中国大陆字形对中日韩越统一表意文字扩展区进行补充。该项目由本人于 2020 年 6 月前后启动。
+遍黑体项目的目标是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)的中国大陆字形对中日韩越统一表意文字扩展区进行补充。该项目由Fitzgerald Yu于2020年6月前后启动。
 
 ## 收录范围
 
@@ -16,8 +16,8 @@
 
 ### 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)
-- 联合制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、cakegao
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、ESC
+- 联合制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、Kathryn
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、baysoftware
 - 过往贡献者：ItMarki、[Honoka55](https://github.com/Honoka55)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
