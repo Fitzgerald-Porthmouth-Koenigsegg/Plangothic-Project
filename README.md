@@ -16,7 +16,7 @@
 
 ### 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)
-- 联合制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、Kathryn
+- 联合制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、[Kathryn](https://github.com/KathrynCG)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan
 - 过往贡献者：ItMarki、[Honoka55](https://github.com/Honoka55)
 
