@@ -9,19 +9,19 @@ The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-s
 
 ## Coverage
 
-We have completed CJK Extensions C, D, G and H; and will soon complete Extension E. Extension B and F are partly available.
+We have completed CJK Extensions C, D, G and H, Extension C requiring further refinement. Extension E will be completed soon. Other blocks are partly available.
 
 ## Production
 
-Everyone is welcome to participate in the production of Plangothic Project. You can join our QQ group [1135661191](https://jq.qq.com/? _wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
+Everyone is welcome to participate in the production of Plangothic Project. You can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
 
 This is a long-term project. We would be grateful if you could promote the project to others. We are always looking for skilled, devoted font producers to join us. The project cannot be achieved without your promotion and encouragement.
 
 ### Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)、Usagi xineist、La Striver
-- Co-producers: [SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、[Kathryn](https://github.com/KathrynCG)
-- Technical assistant: [0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan
-- Past contributors: ItMarki、[Honoka55](https://github.com/Honoka55)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Hulenkius](https://github.com/Hulenkius), Usagi xineist, La Striver
+- Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG)
+- Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), Baysoftware, Eiso Chan, 杂货铺的Martin
+- Past contributors: ItMarki, [Honoka55](https://github.com/Honoka55), [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
