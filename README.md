@@ -9,7 +9,7 @@
 
 ## 收录范围
 
-本字体目前已完成扩展C、D、G、H区；即将完成扩展E区。扩展B、F区散有字形。
+本字体目前已完成扩展C、D、G、H区，扩展C区尚未进行精修，即将完成扩展E区。其他区块散有字形。
 
 ## 制作要求
 任何人都可以参与到遍黑体项目的制作中。可加入 QQ 群 [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)，进行详细商讨质询。
@@ -18,9 +18,9 @@
 
 ### 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)、Usagi xineist、La Striver
-- 联合制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、[Kathryn](https://github.com/KathrynCG)
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan
-- 过往贡献者：ItMarki、[Honoka55](https://github.com/Honoka55)
+- 联合制作：Siphercase、[Kathryn](https://github.com/KathrynCG)
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、杂货铺的Martin
+- 过往贡献者：ItMarki、[Honoka55](https://github.com/Honoka55)、[SomeyaMako](https://github.com/SomeyaMako)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
