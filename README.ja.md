@@ -5,11 +5,11 @@
 # Plangothic Project
 
 ## 概要
-Plangothic Project（中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸部分に基づいて、CJK統合拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。そして、当プロジェクトは2020年6月の頃、Fitzgerald YuがHonoka55の自作改変フォントに霊感を与えられて始めたプロジェクトです。
+Plangothic Project（プランゴシックプロジェクト、中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸部分に基づいて、CJK統合拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。そして、当プロジェクトは2020年6月の頃、Fitzgerald YuがHonoka55の自作改変フォントに霊感を与えられて始めたプロジェクトです。
 
 ## 収録範囲
 
-当フォントは今CJK統合漢字拡張C・D・G・H全体が完成されており、拡張Eが完成の間近です。拡張B・Fなら、まだ始まったばかりです。
+当フォントは今CJK統合漢字拡張C・D・G・H全体が完成されているが、拡張Cはまだ推敲されておらず、拡張Eが完成の間近です。他のブロックなら、まだ始まったばかりです。
 
 ## 制作要件
 Plangothicの制作には、誰でも参加することができます。QQグループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加することで、このプロジェクトについて検討したり、質問したりすることができます。
@@ -18,14 +18,14 @@ Plangothicの制作には、誰でも参加することができます。QQグ�
 
 ### 主な貢献者（敬称略）
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)、Usagi xineist、La Striver
-- 共同制作：[SomeyaMako](https://github.com/SomeyaMako)、杂货铺的 Martin、Siphercase、[Kathryn](https://github.com/KathrynCG)
-- 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan
-- 過去の貢献者：ItMarki、[Honoka55](https://github.com/Honoka55)
+- 共同制作：Siphercase、[Kathryn](https://github.com/KathrynCG)
+- 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、杂货铺的Martin
+- 過去の貢献者：ItMarki、[Honoka55](https://github.com/Honoka55)、[SomeyaMako](https://github.com/SomeyaMako)
 
 また、他にご協力を頂いた関係各位の方々も、心より感謝を申し上げます。
 
 ## ライセンス
-当フォントはSource Han Sansから派生したものので、SIL Open Font Licenseのもとで公開されています。詳しい説明は[ライセンスファイル](LICENSE.txt)をご覧ください。
+当フォントは源ノ角ゴシックから派生したものので、SIL Open Font Licenseのもとで公開されています。詳しい説明は[ライセンスファイル](LICENSE.txt)をご覧ください。
 
 当プロジェクトが提供するフォントは、個人、法人、商用、非商用を問わず、無料で利用することができます。改変も可能です。なお、改変バージョンを作る際に予約されたフォント名「Plangothic」「遍黑」を使うことが固く禁じられており、改変バージョンもSIL Open Font Licenseのもとで公開されなければならないことにご注意ください。
 
