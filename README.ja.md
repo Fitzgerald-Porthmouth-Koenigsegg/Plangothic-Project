@@ -16,9 +16,9 @@ Plangothicの制作には、誰でも参加することができます。QQグ�
 
 当プロジェクトは長期的ですので、他の人に宣伝していただけるとありがたいです。また、私たちは技術的なフォント制作者を常に歓迎します。当プロジェクトは、皆様のご協力と励ましなしには実現できないものです。
 
-### 主な貢献者（敬称略）
-- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)、Usagi xineist、La Striver
-- 共同制作：Siphercase、[Kathryn](https://github.com/KathrynCG)
+### 主な貢献者
+- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、La Striver
+- 共同制作：Siphercase、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、杂货铺的Martin
 - 過去の貢献者：ItMarki、[Honoka55](https://github.com/Honoka55)、[SomeyaMako](https://github.com/SomeyaMako)
 
