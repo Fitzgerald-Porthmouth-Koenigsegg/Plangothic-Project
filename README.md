@@ -17,8 +17,8 @@
 本群长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体技术人才，遍黑体项目的发展离不开他们的宣传鼓励。
 
 ### 主要贡献者
-- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Hulenkius](https://github.com/Hulenkius)、Usagi xineist、La Striver
-- 联合制作：Siphercase、[Kathryn](https://github.com/KathrynCG)
+- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、La Striver
+- 联合制作：Siphercase、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、杂货铺的Martin
 - 过往贡献者：ItMarki、[Honoka55](https://github.com/Honoka55)、[SomeyaMako](https://github.com/SomeyaMako)
 
