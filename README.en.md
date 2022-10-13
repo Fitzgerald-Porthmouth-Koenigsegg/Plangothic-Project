@@ -18,8 +18,8 @@ Everyone is welcome to participate in the production of Plangothic Project. You 
 This is a long-term project. We would be grateful if you could promote the project to others. We are always looking for skilled, devoted font producers to join us. The project cannot be achieved without your promotion and encouragement.
 
 ### Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Hulenkius](https://github.com/Hulenkius), Usagi xineist, La Striver
-- Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
+- Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
 - Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), Baysoftware, Eiso Chan, 杂货铺的Martin
 - Past contributors: ItMarki, [Honoka55](https://github.com/Honoka55), [SomeyaMako](https://github.com/SomeyaMako)
 
