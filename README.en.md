@@ -54,7 +54,7 @@ Before you make a donation, please be sure to note the following points.
 - By donating to this project, you are tacitly indicating that you agree with our concepts and are willing to support our development in this way. Donors’ opinions will be carefully considered, but no donation has the right to change the purpose and public welfare nature of this project by personal will.
 - If you wish, you can leave a message after your donation stating the time and amount of your donation to thank you for your support of this project.
 - All donated funds will be recorded separately and will be used for the project’s technical support and other expenses, and will not be used for private purposes.
-- **I am Chinese mainland user, nor do I have any overseas payment channels. Therefore, any payment request in my name other than Alipay and WeChat is fraudulent! We also apologize for the inconvenience caused by overseas users!**
+- **I am a user in Chinese Mainland and have no overseas payment channels. Therefore, any payment request in my name other than Alipay and WeChat is fraudulent! We also apologize for the inconvenience caused by overseas users!**
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
 
 ## Contact
