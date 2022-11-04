@@ -5,7 +5,7 @@
 # Plangothic Project
 
 ## Overview
-The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-serif styled font that supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN. The project was initiated by Fitzgerald Yu around June 2020, inspired by Honoka55’s self-use modified font.
+The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-serif styled font that supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN. The project was initiated by Fitzgerald Yu around June 2020.
 
 ## Coverage
 
@@ -21,7 +21,7 @@ This is a long-term project. We would be grateful if you could promote the proje
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
 - Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
 - Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), Baysoftware, Eiso Chan, 杂货铺的Martin
-- Past contributors: ItMarki, [Honoka55](https://github.com/Honoka55), [SomeyaMako](https://github.com/SomeyaMako)
+- Past contributors: ItMarki, [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
