@@ -35,15 +35,19 @@ It is strictly prohibited for any individual, enterprise or team to sell the fon
 ## FAQ
 **Q1**: Why are there two font files for Plangothic?
 
-**A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total number of Chinese characters is much larger than this value.
+**A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total number of CJK ideographs is much larger than this value.
 
 **Q2**: What is the difference between *fallback* and *allideo* versions for P1?
 
-**A2**: The *fallback* version is for users who have installed their own fonts for displaying all Chinese characters, and the Chinese characters we have not produced will be empty. The *allideo* version is for users who need to display all Chinese characters with only one font, in which the Chinese characters that have not been produced will be replaced by HanaMin. Both files can be used to find out our current progress.
+**A2**: The *fallback* version is for users who have installed their own fonts for displaying all CJK ideographs, and the CJK ideographs we have not produced will be empty. The *allideo* version is for users who need to display all CJK ideographs with only two fonts, in which the CJK ideographs that have not been produced will be replaced by HanaMin. Both files can be used to find out our current progress.
 
 **Q3**: Why only P1 is divided into two types?
 
 **A3**: Because all characters in extensions G and H, covered by P2, have been produced, so there is no need to divide P2.
+
+**Q4**: Why does this project not include (or include a small amount of) CJK ideographs in the URO and extensions A?
+
+**A4**: Because the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN.", if you need to CJK ideographs in the URO and extensions A, you can directly use Source Han Sans. The sporadic CJK ideographs in the URO and extensions A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs, They have been compared with other mainstream fonts and glyphs in the Unicode.
 
 ## Support us
 “Without the accumulation of half-steps, a thousand miles cannot be covered.” It’s a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
