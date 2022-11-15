@@ -9,7 +9,7 @@ The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-s
 
 ## Coverage
 
-We have completed CJK Extensions C, D, G and H, Extension C requiring further refinement. Extension E will be completed soon. Other blocks are partly available.
+We have completed CJK Extensions C, D, E, G and H, Extension C and Extension E requiring further refinement. Other blocks are partly available.
 
 ## Production
 
