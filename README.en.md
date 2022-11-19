@@ -15,6 +15,8 @@ We have completed CJK Extensions C, D, E, G and H, Extension C and Extension E r
 
 Everyone is welcome to participate in the production of Plangothic Project. You can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
 
+**I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
+
 This is a long-term project. We would be grateful if you could promote the project to others. We are always looking for skilled, devoted font producers to join us. The project cannot be achieved without your promotion and encouragement.
 
 ### Main contributors
@@ -48,6 +50,10 @@ It is strictly prohibited for any individual, enterprise or team to sell the fon
 **Q4**: Why does this project not include (or include a small amount of) CJK ideographs in the URO and extensions A?
 
 **A4**: Because the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN.", if you need to CJK ideographs in the URO and extensions A, you can directly use Source Han Sans. The sporadic CJK ideographs in the URO and extensions A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs, They have been compared with other mainstream fonts and glyphs in the Unicode.
+
+**Q5**: Will there be a version containing other weight (or other local glyphs) in the future?
+
+**A5**: Because the quantities of this project are too large, so will not have this plan. If you have the idea of making such fonts, you can apply to me and make changes with my consent.
 
 ## Support us
 “Without the accumulation of half-steps, a thousand miles cannot be covered.” It’s a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
