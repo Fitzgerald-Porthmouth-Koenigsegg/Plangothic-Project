@@ -22,8 +22,7 @@ This is a long-term project. We would be grateful if you could promote the proje
 ### Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
 - Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
-- Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), Baysoftware, Eiso Chan, 杂货铺的Martin
-- Past contributors: ItMarki, [SomeyaMako](https://github.com/SomeyaMako)
+- Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), Baysoftware, Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
@@ -59,12 +58,12 @@ It is strictly prohibited for any individual, enterprise or team to sell the fon
 “Without the accumulation of half-steps, a thousand miles cannot be covered.” It’s a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
 
 Before you make a donation, please be sure to note the following points.
-- Please make sure to carefully confirm the account name before you donate (Alipay: Fitzgerald K., WeChat: 㘜䘈䚖䜚䟐䠪䀌䆐䉵䎚䑇䒐🙃. A correction will be made once my user name is changed). We cannot be held responsible for any losses you may suffer from fraud.
+- Please carefully confirm the account name before you donate (Alipay: Fitzgerald K., WeChat: 蔽芪茢·茇䓮·蓲䒤菥. A correction will be made once my user name is changed). We cannot be held responsible for any losses you may suffer from fraud.
 - This is the only official donation page currently. If you see a donation link to this project elsewhere, please report immediately and assist the relevant judicial authorities if necessary.
 - By donating to this project, you are tacitly indicating that you agree with our concepts and are willing to support our development in this way. Donors’ opinions will be carefully considered, but no donation has the right to change the purpose and public welfare nature of this project by personal will.
 - If you wish, you can leave a message after your donation stating the time and amount of your donation to thank you for your support of this project.
 - All donated funds will be recorded separately and will be used for the project’s technical support and other expenses, and will not be used for private purposes.
-- **I am a Chinese mainland user, and I don't have any overseas payment channels. Therefore, any payment request in my name that is not with Alipay and WeChat is fraudulent! I apologize for the inconvenience caused by overseas users!**
+- The donation method described above only applies to Chinese Mainland users. If you are not a user in the Chinese Mainland, you can donate directly through [this link](https://paypal.me/fitzgeraldpk?country.x=C2&locale.x=zh_XC). Please carefully confirm the account name before you donate (Username: @fitzgeraldpk, Name: 于航. A correction will be made once my user name is changed). We cannot be held responsible for any losses you may suffer from fraud.
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
 
 ## Contact
