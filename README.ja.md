@@ -21,8 +21,7 @@ Plangothicの制作には、誰でも参加することができます。QQグ�
 ### 主な貢献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、La Striver
 - 共同制作：Siphercase、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
-- 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、杂货铺的Martin
-- 過去の貢献者：ItMarki、[SomeyaMako](https://github.com/SomeyaMako)
+- 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 また、他にご協力を頂いた関係各位の方々も、心より感謝を申し上げます。
 
@@ -59,12 +58,12 @@ Plangothicの制作には、誰でも参加することができます。QQグ�
 
 寄付をする前に、ぜひ以下の点にご注意ください。
 
-- 寄付をする前に、アカウント名をよく確認してください（Alipay：Fitzgerald K.、WeChat：㘜䘈䚖䜚䟐䠪䀌䆐䉵䎚䑇䒐🙃。ユーザー名が変更したらすぐに訂正します）。不正行為により被る損害について、当プロジェクトは一切の責任を負いません。
+- 寄付をする前に、アカウント名をよく確認してください（Alipay：Fitzgerald K.、WeChat：蔽芪茢·茇䓮·蓲䒤菥。ユーザー名が変更したらすぐに訂正します）。不正行為により被る損害について、当プロジェクトは一切の責任を負いません。
 - 現在、公式の寄付ページはこれだけです。他のサイトで当プロジェクトへの寄付リンクを見かけた場合は、直ちに報告し、必要に応じて関連する司法当局に協力してください。
 - 当プロジェクトにご寄付いただくことは、私たちの理念に賛同し、このような形で私たちの発展を支援することを黙認していることになります。寄付者様からのご意見は慎重に検討させていただきますが、いくら寄付をいただいても、寄付者が個人の意思で当プロジェクトの目的や公益性を変更する権利はありません。
 - ご希望の方には、当プロジェクトにご協力いただいたお礼として、ご寄付いただいた時間と金額を明記してメッセージを残すことができます。
 - 寄付金は全て個別に記録され、当プロジェクトの技術支援などに使用され、個人的な使用はされません。
-- **私は中国大陸のユーザーで、海外の支払いルートは何もありません。そのため、私の名義でAlipayとWeChatを除いた支払い請求を行うのはすべて詐欺行為です！海外ユーザーのご不便をお詫び申し上げます！**
+- 上記の寄付方法は、中国大陸部のユーザーにのみ適用され、中国大陸部のユーザーではない場合は、[本リンク](https://paypal.me/fitzgeraldpk?country.x=C2&locale.x=zh_XC)を通じて直接寄付すればよい。寄付をする前に、アカウント名をよく確認してください（ユーザー名：@fitzgeraldpk、名前：于航。ユーザー名が変更したらすぐに訂正します）。不正行為により被る損害について、当プロジェクトは一切の責任を負いません。
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
 
 ## 連絡先
