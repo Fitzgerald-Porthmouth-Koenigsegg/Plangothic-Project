@@ -29,7 +29,7 @@ There are also many other people who have supported and participated in the proj
 ## License
 This font is derived from Source Han Sans and released under the SIL Open Font License. See [LICENSE.txt](LICENSE.txt) for details.
 
-All the fonts under the project can be used by any individual, enterprise or team for free. Please note that it is strictly forbidden to use the reserved names “Plangothic” and “遍黑” when making modified versions, and the modified versions must be released under the SIL Open Font License.
+All the fonts under the project can be used by any individual, enterprise or team for free. Please note that it is strictly forbidden to use the reserved names "Plangothic" and "遍黑" when making modified versions, and the modified versions must be released under the SIL Open Font License.
 
 It is strictly prohibited for any individual, enterprise or team to sell the font file (including but not limited to selling the font file separately, bundling it with other fonts, or asking for payment to use the font, etc.). If you have paid for this font, please report immediately and assist the relevant judicial authorities if necessary.
 
@@ -55,14 +55,14 @@ It is strictly prohibited for any individual, enterprise or team to sell the fon
 **A5**: Because the quantities of this project are too large, so will not have this plan. If you have the idea of making such fonts, you can apply to me and make changes with my consent.
 
 ## Support us
-“Without the accumulation of half-steps, a thousand miles cannot be covered.” It’s a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
+"Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
 
 Before you make a donation, please be sure to note the following points.
 - Please carefully confirm the account name before you donate (Alipay: Fitzgerald K., WeChat: 蔽芪茢·茇䓮·蓲䒤菥. A correction will be made once my user name is changed). We cannot be held responsible for any losses you may suffer from fraud.
 - This is the only official donation page currently. If you see a donation link to this project elsewhere, please report immediately and assist the relevant judicial authorities if necessary.
-- By donating to this project, you are tacitly indicating that you agree with our concepts and are willing to support our development in this way. Donors’ opinions will be carefully considered, but no donation has the right to change the purpose and public welfare nature of this project by personal will.
+- By donating to this project, you are tacitly indicating that you agree with our concepts and are willing to support our development in this way. Donors' opinions will be carefully considered, but no donation has the right to change the purpose and public welfare nature of this project by personal will.
 - If you wish, you can leave a message after your donation stating the time and amount of your donation to thank you for your support of this project.
-- All donated funds will be recorded separately and will be used for the project’s technical support and other expenses, and will not be used for private purposes.
+- All donated funds will be recorded separately and will be used for the project's technical support and other expenses, and will not be used for private purposes.
 - The donation method described above only applies to Chinese Mainland users. If you are not a user in the Chinese Mainland, you can donate directly through [this link](https://paypal.me/fitzgeraldpk?country.x=C2&locale.x=zh_XC). Please carefully confirm the account name before you donate (Username: @fitzgeraldpk, Name: 于航. A correction will be made once my user name is changed). We cannot be held responsible for any losses you may suffer from fraud.
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
 
