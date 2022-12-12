@@ -17,7 +17,9 @@ Everyone is welcome to participate in the production of Plangothic Project. You 
 
 **I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
 
-This is a long-term project. We would be grateful if you could promote the project to others. We are always looking for skilled, devoted font producers to join us. The project cannot be achieved without your promotion and encouragement.
+This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the following contact information. The development of this project is inseparable from your publicity and encouragement.
+
+I am not a professional designer and did not consider the aesthetic feeling of the design so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some characters will be very stiff. But it is better than nothing.
 
 ### Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
@@ -27,11 +29,15 @@ This is a long-term project. We would be grateful if you could promote the proje
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
 ## License
-This font is derived from Source Han Sans and released under the SIL Open Font License. See [LICENSE.txt](LICENSE.txt) for details.
+This font is derived from Source Han Sans and released under the SIL Open Font License. See [LICENSE.txt](LICENSE.txt) for details. You can:
 
-All the fonts under the project can be used by any individual, enterprise or team for free. Please note that it is strictly forbidden to use the reserved names "Plangothic" and "遍黑" when making modified versions, and the modified versions must be released under the SIL Open Font License.
+- Free use, including commercial use, without payment, notification, or identification of the original author.
+- Share font files freely and install them on any software or device.
+- On this basis, the work shall be modified or re-created. However, the name "Plangothic" and "遍黑" shall not be used for the second modified work. The second modified version shall also be published in SIL Open Font Licenses.
 
-It is strictly prohibited for any individual, enterprise or team to sell the font file (including but not limited to selling the font file separately, bundling it with other fonts, or asking for payment to use the font, etc.). If you have paid for this font, please report immediately and assist the relevant judicial authorities if necessary.
+Any individual, enterprise, team, etc. who uses, copies, modifies, distributes this font or conducts any behavior conforming to the provisions of the SIL Open Font License, and the recipient who uses, downloads, or exercises the rights specified in the contract, shall be deemed to have agreed to comply with all the provisions of the SIL Open Font License by default.
+
+It is strictly prohibited for any individual, enterprise, or team to sell the font file (including but not limited to selling the font file separately, bundling it with other fonts, or asking for payment to use the font, etc.). If you have paid for this font, please report immediately and assist the relevant judicial authorities if necessary.
 
 ## FAQ
 **Q1**: Why are there two font files for Plangothic?
@@ -52,7 +58,7 @@ It is strictly prohibited for any individual, enterprise or team to sell the fon
 
 **Q5**: Will there be a version containing other weight (or other local glyphs) in the future?
 
-**A5**: Because the quantities of this project are too large, so will not have this plan. If you have the idea of making such fonts, you can apply to me and make changes with my consent.
+**A5**: Because the quantities of this project are too large, so will not have this plan. If you have any idea about making such fonts, please contact me.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
