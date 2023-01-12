@@ -82,11 +82,11 @@
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)
     - Noto系列里的其他字体。
     - [上地宏一](https://twitter.com/kamichikoichi)所开发的[字形维基](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)及KAGE Engine。
-    - [すきまゴシック / Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070)（隙间黑体）。
+    - [すきまゴシック（Sukima Gothic、隙间黑体）](https://oppekebekkanko.booth.pm/items/2117070)。
     - [绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
     - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)。
     - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑体](https://github.com/Buernia/Zhudou-Sans)。
     - [秋空黑体](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
-    - [Nôm Na Tống](https://github.com/nomfoundation/font)（喃那宋）。
-    - [魏安](https://twitter.com/BabelStone)（Andrew West）所开发的[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)（巴别石）。
+    - [Nôm Na Tống（喃那宋）](https://github.com/nomfoundation/font)。
+    - [魏安](https://twitter.com/BabelStone)（Andrew West）所开发的[BabelStone Han（巴别石）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
