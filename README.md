@@ -80,6 +80,7 @@
 3. 本人并不是专业的设计师，所以结构看起来可能很丑，补进去的字与原版相比可能略有违和感。此外由于时间仓促，并没有多余的时间精修，部分字的部件拼接会很生硬。但聊胜于无。
 4. 本项目部分或全部借用或参考了其他工具或开源字体项目，主要包括：
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)
+    - Noto系列里的其他字体。
     - [上地宏一](https://twitter.com/kamichikoichi)所开发的[字形维基](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)及KAGE Engine。
     - [すきまゴシック / Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070)（隙间黑体）。
     - [绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
