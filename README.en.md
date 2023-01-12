@@ -11,16 +11,6 @@ The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-s
 
 We have completed CJK Extensions C, D, E, G and H, Extension C and Extension E requiring further refinement. Other blocks are partly available.
 
-## Production
-
-Everyone is welcome to participate in the production of Plangothic Project. You can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
-
-**I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
-
-This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the following contact information. The development of this project is inseparable from your publicity and encouragement.
-
-I am not a professional designer and did not consider the aesthetic feeling of the design so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some characters will be very stiff. But it is better than nothing.
-
 ### Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
 - Co-producers: [Siphercase](https://github.com/Siphercase), [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
@@ -62,7 +52,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q6**: Why is there no complex text layout (CTL) in this font?
 
-**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to Unifont and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [绵云饴里](https://github.com/MY1L). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
+**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), or [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
@@ -82,3 +72,21 @@ Before you make a donation, please be sure to note the following points.
 - GlyphWiki: http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - E-mails: 374601620@qq.com, fitzgeraldkoenigsegg@gmail.com
 - QQ: 374601620
+
+## Other instructions
+1. Everyone is welcome to participate in the production of Plangothic Project. But you need to ensure that you have a certain foundation in the area of glyphs, font beauty, software use, Unicode, and other aspects. In this regard, you can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
+2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the following contact information. The development of this project is inseparable from your publicity and encouragement.
+3. I am not a professional designer and did not consider the aesthetic feeling of the design so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some characters will be very stiff. But it is better than nothing.
+4. **I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
+5. This project borrows or refers to other tools or open-source font projects in part or whole, mainly including:
+    - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
+    - Other fonts in Noto series.
+    - [Glyphwiki](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8) and KAGE Engine developed by [Kamichi Koichi](https://twitter.com/kamichikoichi).
+    - [すきまゴシック（Sukima Gothic）](https://oppekebekkanko.booth.pm/items/2117070).
+    - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L).
+    - [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk).
+    - [Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) developed by [Buernia](https://github.com/Buernia).
+    - [Chiu Kong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic).
+    - [Nôm Na Tống](https://github.com/nomfoundation/font).
+    - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone).
+    - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
