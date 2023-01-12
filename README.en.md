@@ -23,7 +23,7 @@ I am not a professional designer and did not consider the aesthetic feeling of t
 
 ### Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, La Striver
-- Co-producers: Siphercase, [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
+- Co-producers: [Siphercase](https://github.com/Siphercase), [Kathryn](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)
 - Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
