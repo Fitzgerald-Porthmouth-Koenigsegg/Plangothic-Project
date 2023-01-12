@@ -88,5 +88,5 @@
     - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑体](https://github.com/Buernia/Zhudou-Sans)。
     - [秋空黑体](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
     - [Nôm Na Tống（喃那宋）](https://github.com/nomfoundation/font)。
-    - [魏安](https://twitter.com/BabelStone)（Andrew West）所开发的[BabelStone Han（巴别石）](https://www.babelstone.co.uk/Fonts/index.html)。
+    - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的[BabelStone Han（巴别石）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
