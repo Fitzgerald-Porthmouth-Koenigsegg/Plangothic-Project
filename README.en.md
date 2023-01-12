@@ -86,7 +86,7 @@ Before you make a donation, please be sure to note the following points.
     - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L).
     - [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk).
     - [Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) developed by [Buernia](https://github.com/Buernia).
-    - [Chiu Kong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic).
+    - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic).
     - [Nôm Na Tống](https://github.com/nomfoundation/font).
     - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone).
     - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
