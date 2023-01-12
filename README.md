@@ -11,16 +11,9 @@
 
 本字体目前已完成扩展C、D、E、G、H区，扩展C区和扩展E区尚未进行精修，其他区块散有字形。
 
-## 制作要求
-任何人都可以参与到遍黑体项目的制作中。可加入 QQ 群 [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)，进行详细商讨质询。
-
-本群长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家在本字体的基础上继续完善该字体，您可以通过下面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
-
-本人并不是专业的设计师，并未考虑设计美感，所以结构看起来可能很丑，补进去的字与原版相比可能略有违和感。此外由于时间仓促，并没有多余的时间精修，部分字的部件拼接会很生硬。但聊胜于无。
-
 ### 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、La Striver
-- 联合制作：Siphercase、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
+- 联合制作：[Siphercase](https://github.com/Siphercase)、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
@@ -80,3 +73,19 @@
 - QQ邮箱: 374601620@qq.com
 - QQ: 374601620
 - Gmail: fitzgeraldkoenigsegg@gmail.com
+
+## 其他说明
+1. 任何人都可以参与到遍黑体项目的制作中，但需确保您对地区字形、字形美观、软件使用、Unicode等方面有一定的基础，关于此方面可加入该项目的QQ群[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)进行详细商讨质询。
+2. 本群长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家在本字体的基础上继续完善该字体，您可以通过上面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
+3. 本人并不是专业的设计师，所以结构看起来可能很丑，补进去的字与原版相比可能略有违和感。此外由于时间仓促，并没有多余的时间精修，部分字的部件拼接会很生硬。但聊胜于无。
+4. 本项目部分或全部借用或参考了其他工具或开源字体项目，主要包括：
+    - [思源黑体](https://github.com/adobe-fonts/source-han-sans)
+    - [上地宏一](https://twitter.com/kamichikoichi)所开发的[字形维基](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)及KAGE Engine。
+    - [すきまゴシック / Sukima Gothic](https://oppekebekkanko.booth.pm/items/2117070)（隙间黑体）。
+    - [绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
+    - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)。
+    - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑体](https://github.com/Buernia/Zhudou-Sans)。
+    - [秋空黑体](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
+    - [Nôm Na Tống](https://github.com/nomfoundation/font)（喃那宋）。
+    - [魏安](https://twitter.com/BabelStone)（Andrew West）所开发的[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)（巴别石）。
+    - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
