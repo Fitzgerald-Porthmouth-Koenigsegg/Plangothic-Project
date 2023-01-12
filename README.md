@@ -21,7 +21,7 @@
 ### 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、La Striver
 - 联合制作：Siphercase、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、Baysoftware、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
@@ -59,7 +59,7 @@
 
 **Q6**：为什么这个项目里的字体没有复杂文种排版（CTL）？
 
-**A6**：因为本项目内的字体，其使用性质侧重于工具字体，即不负责排版仅负责显示，类似Unifont和[绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。本人并不需要准确地排版这么多语言文字，只要看得见字符就行，若您有此类想法，可自行制作有关于您需求的该项目的衍生字体版本。
+**A6**：因为本项目内的字体，其使用性质侧重于工具字体，即不负责排版仅负责显示，类似于Unifont和[绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。本人并不需要准确地排版这么多语言文字，只要看得见字符就行，若您有此类想法，可自行制作有关于您需求的该项目的衍生字体版本。
 
 ## 支持我们
 “不积跬步，无以至千里。”遍黑体项目制作难度大，制作时间长，若愿意支持我们，在此致以诚挚感谢！您的捐助可以帮助遍黑体项目以更好发展。您还可以通过其他方式目做出贡献，如帮助检查错误字形、对不美观字形提出改进意见等。
