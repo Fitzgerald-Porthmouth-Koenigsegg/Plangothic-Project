@@ -58,7 +58,11 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q5**: Will there be a version containing other weight (or other local glyphs) in the future?
 
-**A5**: Because the quantities of this project are too large, so will not have this plan. If you have any idea about making such fonts, please contact me.
+**A5**: Because the quantities of this project are too large, so will not have this plan. If you have such an idea, you can make a derivative font version of the project with your requirements.
+
+**Q6**: Why is there no complex text layout (CTL) in this font?
+
+**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to Unifont and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [绵云饴里](https://github.com/MY1L). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
