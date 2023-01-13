@@ -13,7 +13,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 ## 主な貢献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、[La Striverage](https://github.com/Lastriverage)
-- 共同制作：[Siphercase](https://github.com/Siphercase)、[Kathryn](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
+- 共同制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 また、他にご協力を頂いた関係各位の方々も、心より感謝を申し上げます。
