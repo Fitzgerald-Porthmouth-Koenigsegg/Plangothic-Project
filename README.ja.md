@@ -9,7 +9,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 ## 収録範囲
 
-当フォントは今CJK統合漢字拡張C・D・E・G・H全体が完成されているが、拡張Cと拡張Eはまだ推敲されておらず。他のブロックなら、まだ始まったばかりです。
+当フォントは今CJK統合漢字拡張Bを除いてすべて完成したが、拡張C·D·E·Fはまだ推敲されておらず。他の非CJK統合漢字ブロックなら、まだ始まったばかりです。
 
 ## 主な貢献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、Usagi xineist、[La Striverage](https://github.com/Lastriverage)
