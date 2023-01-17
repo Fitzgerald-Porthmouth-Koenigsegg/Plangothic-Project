@@ -9,7 +9,7 @@ The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-s
 
 ## Coverage
 
-We have completed CJK Extensions C, D, E, G and H, Extension C and Extension E requiring further refinement. Other blocks are partly available.
+We have completed except for Extension B. Extension C, D, E, and Extension F require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, [La Striverage](https://github.com/Lastriverage)
