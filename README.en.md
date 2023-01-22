@@ -12,7 +12,7 @@ The goal of Plangothic Project (Chinese: 遍黑体项目) is to produce a sans-s
 We have completed except for Extension B. Extension C, D, E, and Extension F require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), Usagi xineist, [La Striverage](https://github.com/Lastriverage)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage)
 - Co-producers: [Siphercase](https://github.com/Siphercase), [KathrynCG](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
 - Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
 
