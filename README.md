@@ -5,7 +5,7 @@
 # Plangothic Project（遍黑体项目）
 
 ## 概述
-遍黑体项目的目标是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)的中国大陆字形对中日韩越统一表意文字扩展区进行补充。该项目由Fitzgerald Yu于2020年6月前后启动。
+遍黑体项目是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，该项目于2020年6月前后启动。
 
 ## 收录范围
 
