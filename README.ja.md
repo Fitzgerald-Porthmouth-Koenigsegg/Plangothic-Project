@@ -5,7 +5,7 @@
 # Plangothic Project
 
 ## 概要
-Plangothic Project（プランゴシックプロジェクト、中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸部分に基づいて、CJK統合拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。このプロジェクトはFitzgerald Yuによって2020年6月頃に開始されました。
+Plangothic Project（プランゴシックプロジェクト、中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸部分に基づいて、CJK統合拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。このプロジェクトは2020年6月頃にスタートします。
 
 ## 収録範囲
 
