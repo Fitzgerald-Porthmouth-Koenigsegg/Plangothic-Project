@@ -3,7 +3,8 @@
 [日语/日本語](README.ja.md) | [英语/English](README.en.md)
 
 # Plangothic Project（遍黑体项目）
-
+[![最新版](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=flat-square)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![视频介绍](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
 ## 概述
 遍黑体项目是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，该项目于2020年6月前后启动。
 
