@@ -3,7 +3,8 @@
 [中国語/中文](README.md) | [英語/English](README.en.md)
 
 # Plangothic Project
-
+[![最新版](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=flat-square)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
+[![ビデオ紹介](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
 ## 概要
 Plangothic Project（プランゴシックプロジェクト、中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸版をベースに、CJK統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020年6月頃より開発されています。
 
