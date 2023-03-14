@@ -82,8 +82,8 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 3. 作者はプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
 4. **私は中国本土のユーザーで、このプロジェクトにはTelegram、Discordなどの海外ディスカッショングループはありません。海外ユーザーの皆様、ご迷惑をおかけして申し訳ありません！**
 5. 本プロジェクトは、主に以下のツールまたはオープンソースフォントプロジェクトの一部またはすべてを使用、ないし参考にしています：
-    - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)
-    - 他のNotoフォント
+    - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)。
+    - 他のNotoフォント。
     - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)とKAGE Engine。
     - [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)。
     - [綿雲飴里](https://github.com/MY1L)氏による[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
