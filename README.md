@@ -91,3 +91,4 @@
     - [Nôm Na Tống（喃那宋）](https://github.com/nomfoundation/font)。
     - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的[BabelStone Han（巴别石）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
+    - Gothic Nguyen（阮黑体）。
