@@ -5,6 +5,7 @@
 # Plangothic Project
 [![最新版](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=flat-square)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![ビデオ紹介](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
+[![stars - 遍](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=social)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)
 ## Overview
 Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJKV Unified ideographic extension. The project was initiated around June 2020.
 
@@ -91,3 +92,4 @@ Before you make a donation, please be sure to note the following points.
     - [Nôm Na Tống](https://github.com/nomfoundation/font).
     - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone).
     - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
+    - Gothic Nguyen.
