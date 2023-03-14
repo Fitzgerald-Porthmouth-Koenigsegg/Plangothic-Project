@@ -5,6 +5,7 @@
 # Plangothic Project
 [![最新版](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=flat-square)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![ビデオ紹介](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?style=flat-square&logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
+[![stars - 遍](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?style=social)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)
 ## 概要
 Plangothic Project（プランゴシックプロジェクト、中国語：遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸版をベースに、CJK統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020年6月頃より開発されています。
 
@@ -83,12 +84,13 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 5. 本プロジェクトは、主に以下のツールまたはオープンソースフォントプロジェクトの一部またはすべてを使用、ないし参考にしています：
     - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)
     - 他のNotoフォント
-    - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)とKAGE Engine
-    - [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)
-    - [綿雲飴里](https://github.com/MY1L)氏による[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)
-    - [Chiron Hei HK（昭源黑體）](https://github.com/chiron-fonts/chiron-hei-hk)
-    - [奈白不弍](https://github.com/Buernia)氏による[Zhudou-Sans（煮豆黑體）](https://github.com/Buernia/Zhudou-Sans)
-    - [ChiuKong Gothic（秋空ゴシック）](https://github.com/ChiuMing-Neko/ChiuKongGothic)
-    - [Nôm Na Tống](https://github.com/nomfoundation/font)
-    - [魏安（Andrew West）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)
-    - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)
+    - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)とKAGE Engine。
+    - [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)。
+    - [綿雲飴里](https://github.com/MY1L)氏による[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
+    - [Chiron Hei HK（昭源黑體）](https://github.com/chiron-fonts/chiron-hei-hk)。
+    - [奈白不弍](https://github.com/Buernia)氏による[Zhudou-Sans（煮豆黑體）](https://github.com/Buernia/Zhudou-Sans)。
+    - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
+    - [Nôm Na Tống](https://github.com/nomfoundation/font)。
+    - [魏安（Andrew West）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
+    - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
+    - Gothic Nguyen。
