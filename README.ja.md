@@ -100,4 +100,4 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [Nôm Na Tống](https://github.com/nomfoundation/font)。
     - [魏安（Andrew West）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
-    - Gothic Nguyen。
+    - [Gothic Nguyen](https://www.asuswebstorage.com/navigate/a/#/s/C934708AAAA14317843BDFC6853EAB79Y)。
