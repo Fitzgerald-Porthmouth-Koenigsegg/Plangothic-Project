@@ -99,4 +99,4 @@ Before you make a donation, please be sure to note the following points.
     - [Nôm Na Tống](https://github.com/nomfoundation/font).
     - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone).
     - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
-    - Gothic Nguyen.
+    - [Gothic Nguyen](https://www.asuswebstorage.com/navigate/a/#/s/C934708AAAA14317843BDFC6853EAB79Y).
