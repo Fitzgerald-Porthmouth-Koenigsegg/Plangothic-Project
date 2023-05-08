@@ -45,7 +45,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q2**: What is the difference between *fallback* and *allideo* versions for P1?
 
-**A2**: The *fallback* version is for users who have installed their own fonts for displaying all CJK ideographs, and the CJK ideographs we have not produced will be empty. The *allideo* version is for users who need to display all CJK ideographs with only two fonts, in which the CJK ideographs that have not been produced will be replaced by HanaMin. Both files can be used to find out our current progress.
+**A2**: The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not produced will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have not been produced will be replaced by Hanazono Mincho. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will disappear.
 
 **Q3**: Why only P1 is divided into two types?
 
