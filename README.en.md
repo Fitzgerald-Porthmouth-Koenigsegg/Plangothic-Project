@@ -18,7 +18,7 @@ Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](http
 
 ## Coverage
 
-We have completed except for Extension B. Extension C, D, E, and Extension F require further refinement. Other non-CJK ideographs are partly available.
+We have completed except for Extension B. Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage)

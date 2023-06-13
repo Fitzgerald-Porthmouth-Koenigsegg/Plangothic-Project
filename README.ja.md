@@ -18,7 +18,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 ## 収録範囲
 
-当フォントは現在、CJK統合漢字拡張Bを除く全範囲をサポートしていますが、拡張C・D・E・Fは確認が不十分で、CJK統合漢字外のブロックは部分的にのみ実装されています。
+当フォントは現在、CJK統合漢字拡張Bを除く全範囲をサポートしていますが、拡張C・D・E・F・Iは確認が不十分で、CJK統合漢字外のブロックは部分的にのみ実装されています。
 
 ## 主な開発メンバー
 - 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)

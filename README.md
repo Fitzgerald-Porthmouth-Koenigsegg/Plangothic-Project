@@ -18,7 +18,7 @@
 
 ## 收录范围
 
-本字体目前除扩展B区以外均已全部支持，扩展C、D、E、F区尚未进行精修，其他非汉字区块散有字形。
+本字体目前除扩展B区以外均已全部支持，扩展C、D、E、F、I区尚未进行精修，其他非汉字区块散有字形。
 
 ## 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)
