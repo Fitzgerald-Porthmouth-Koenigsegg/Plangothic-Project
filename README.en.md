@@ -61,7 +61,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q6**: Why is there no complex text layout (CTL) in this font?
 
-**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)，或 [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
+**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)， [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
