@@ -13,8 +13,8 @@
 [![License](https://img.shields.io/static/v1?label=License&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE.txt)
 </div>
 
-## 概况
-Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJKV Unified ideographic extension. The project was initiated around 2020年6月.
+## Overview
+Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJKV Unified ideographic extension. The project was initiated around June 2020.
 
 ## Coverage
 
@@ -61,7 +61,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q6**: Why is there no complex text layout (CTL) in this font?
 
-**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)， [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
+**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
