@@ -102,6 +102,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって*.svgファイル（スケーラブルベクターグラフィックスファイル）を使用してオンラインで提供されています。ユーザーは「https://seeki.vistudium.top/SVG/{小文字の漢字の16進コードポイント}.svg」リンクを使用して取得することができます。
+
 例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※注意：

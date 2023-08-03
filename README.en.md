@@ -101,6 +101,7 @@ Before you make a donation, please be sure to note the following points.
     - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through *.svg files (**S**calable **V**ector **G**raphics files). Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
+
 For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※Please note:
