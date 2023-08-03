@@ -98,6 +98,12 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [奈白不弍](https://github.com/Buernia)氏による[Zhudou-Sans（煮豆黑體）](https://github.com/Buernia/Zhudou-Sans)。
     - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
     - [Nôm Na Tống](https://github.com/nomfoundation/font)。
-    - [魏安（Andrew West）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
+    - [魏安（Andrew West、アンドリュー・ウェスト）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
+6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって*.svgファイル（スケーラブルベクターグラフィックスファイル）を使用してオンラインで提供されています。ユーザーは「https://seeki.vistudium.top/SVG/{小文字の漢字の16進コードポイント}.svg」リンクを使用して取得することができます。
+例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
+![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+※注意：
+  - オンラインの*.svgファイルには、CJK統合漢字拡張B領域からCJK統合漢字拡張I（草案）までの文字しか含まれていません。
+  - オンラインの*.svgファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。

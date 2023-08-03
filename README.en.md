@@ -14,16 +14,16 @@
 </div>
 
 ## Overview
-Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJKV Unified ideographic extension. The project was initiated around June 2020.
+Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. The project was initiated around June 2020.
 
 ## Coverage
 
 We have completed except for Extension B. Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)， [Usagixineist](https://github.com/Usagixineist)， [La Striverage](https://github.com/Lastriverage)
-- Co-producers: [Siphercase](https://github.com/Siphercase)， [KathrynCG](https://github.com/KathrynCG)， [Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
-- Technical assistant: [0xAA55](https://github.com/0xAA55)， [Henry Chan](https://github.com/hfhchan)， [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage)
+- Co-producers: [Siphercase](https://github.com/Siphercase), [KathrynCG](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius), [Xiuer](https://github.com/Steve-Yuu)
+- Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
@@ -43,7 +43,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total number of CJK ideographs is much larger than this value.
 
-**Q2**: What is the difference between *fallback* 和 *allideo* versions for P1?
+**Q2**: What is the difference between *fallback* and *allideo* versions for P1?
 
 **A2**: The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not produced will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have not been produced will be replaced by Hanazono Mincho. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will disappear.
 
@@ -85,7 +85,7 @@ Before you make a donation, please be sure to note the following points.
 ## Other instructions
 1. Everyone is welcome to participate in the production of Plangothic Project. But you need to ensure that you have a certain foundation in the area of glyphs, font beauty, software use, Unicode, and other aspects. In this regard, you can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
 2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the above contact information. The development of this project is inseparable from your publicity and encouragement.
-3. I am not a professional designer so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some characters will be very stiff. But it is better than nothing.
+3. I am not a professional designer so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some glyphs will be very stiff. But it is better than nothing.
 4. **I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
 5. This project borrows or refers to other tools or open-source font projects in part or whole, mainly including:
     - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。
@@ -100,3 +100,9 @@ Before you make a donation, please be sure to note the following points.
     - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone)。
     - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
+6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through *.svg files (**S**calable **V**ector **G**raphics files). Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
+For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
+![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+※Please note:
+  - The online *.svg files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I (draft).
+  - The online *.svg files may not be fully synchronized with the updates of this project, so please use them accordingly.
