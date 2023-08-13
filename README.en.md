@@ -86,6 +86,7 @@ Before you make a donation, please be sure to note the following points.
 1. Everyone is welcome to participate in the production of Plangothic Project. But you need to ensure that you have a certain foundation in the area of glyphs, font beauty, software use, Unicode, and other aspects. In this regard, you can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
 
 **Group password: C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
+
 2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the above contact information. The development of this project is inseparable from your publicity and encouragement.
 3. I am not a professional designer so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some glyphs will be very stiff. But it is better than nothing.
 4. **I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
