@@ -86,7 +86,7 @@
 ## 其他说明
 1. 任何人都可以参与到遍黑体项目的制作中，但需确保您对地区字形、字形美观、软件使用、Unicode等方面有一定的基础，关于此方面可加入该项目的QQ群[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)进行详细商讨质询。
 
-**入群口令：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
+    **入群口令：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
 
 2. 本项目长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家在本字体的基础上继续完善该字体，您可以通过上面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
 3. 本人并不是专业的设计师，所以结构看起来可能很丑，补进去的字与原版相比可能略有违和感。此外由于时间仓促，并没有多余的时间精修，部分字的部件拼接会很生硬。但聊胜于无。
@@ -105,7 +105,7 @@
     - [Gothic Nguyen（阮黑体）](https://github.com/TKYKmori/Gothic-Nguyen)。
 5. 该项目的字形资料由[Hulenkius](https://github.com/Hulenkius)通过*.svg文件（可缩放矢量图形文件）进行线上使用，使用者可以通过「https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg」链接进行攫取。
 
-例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
+    例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※请注意：
   - 线上的*.svg文件仅包含中日韩统一表意文字扩展B区至中日韩统一表意文字扩展I区（草案）。

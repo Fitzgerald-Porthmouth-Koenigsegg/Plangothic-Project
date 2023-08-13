@@ -85,7 +85,7 @@ Before you make a donation, please be sure to note the following points.
 ## Other instructions
 1. Everyone is welcome to participate in the production of Plangothic Project. But you need to ensure that you have a certain foundation in the area of glyphs, font beauty, software use, Unicode, and other aspects. In this regard, you can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
 
-**Group password: C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
+    **Group password: C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
 
 2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the above contact information. The development of this project is inseparable from your publicity and encouragement.
 3. I am not a professional designer so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some glyphs will be very stiff. But it is better than nothing.
@@ -105,7 +105,7 @@ Before you make a donation, please be sure to note the following points.
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through *.svg files (**S**calable **V**ector **G**raphics files). Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
-For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
+    For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※Please note:
   - The online *.svg files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I (draft).

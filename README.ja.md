@@ -86,7 +86,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 ## その他の説明
 1. Plangothicの制作には、誰でも参加することができます。しかし、地域別字形、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQグループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
 
-**グループパスワード：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
+    **グループパスワード：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
 
 2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothicの発展は皆様のお力にかかっています。
 3. 作者はプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
@@ -106,7 +106,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって*.svgファイル（スケーラブルベクターグラフィックスファイル）を使用してオンラインで提供されています。ユーザーは「https://seeki.vistudium.top/SVG/{小文字の漢字の16進コードポイント}.svg」リンクを使用して取得することができます。
 
-例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
+    例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※注意：
   - オンラインの*.svgファイルには、CJK統合漢字拡張B領域からCJK統合漢字拡張I（草案）までの文字しか含まれていません。
