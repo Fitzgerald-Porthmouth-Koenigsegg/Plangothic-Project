@@ -103,7 +103,7 @@
     - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的[BabelStone Han（巴别石）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
     - [Gothic Nguyen（阮黑体）](https://github.com/TKYKmori/Gothic-Nguyen)。
-5. 该项目的字形资料由[Hulenkius](https://github.com/Hulenkius)通过*.svg文件（可缩放矢量图形文件）进行线上使用，使用者可以通过「https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg」链接进行攫取。
+5. 该项目的字形资料由[Hulenkius](https://github.com/Hulenkius)通过*.svg文件（可缩放矢量图形文件）进行线上使用，使用者可以通过「<https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg>」链接进行攫取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
