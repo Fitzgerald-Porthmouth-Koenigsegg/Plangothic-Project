@@ -21,8 +21,8 @@
 本字体目前除扩展B区以外均已全部支持，扩展C、D、E、F、I区尚未进行精修，其他非汉字区块散有字形。
 
 ## 主要贡献者
-- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)
-- 联合制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
+- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)、[Xiuer](https://github.com/Steve-Yuu)
+- 联合制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、ParMark Trum、Mukuro
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。

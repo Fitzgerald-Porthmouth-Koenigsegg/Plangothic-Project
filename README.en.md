@@ -21,8 +21,8 @@ Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](http
 We have completed except for Extension B. Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage)
-- Co-producers: [Siphercase](https://github.com/Siphercase), [KathrynCG](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius), [Xiuer](https://github.com/Steve-Yuu)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage), [Xiuer](https://github.com/Steve-Yuu)
+- Co-producers: [Siphercase](https://github.com/Siphercase), [KathrynCG](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius), ParMark Trum, Mukuro
 - Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.

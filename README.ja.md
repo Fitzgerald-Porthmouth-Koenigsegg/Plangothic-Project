@@ -21,8 +21,8 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 当フォントは現在、CJK統合漢字拡張Bを除く全範囲をサポートしていますが、拡張C・D・E・F・Iは確認が不十分で、CJK統合漢字外のブロックは部分的にのみ実装されています。
 
 ## 主な開発メンバー
-- 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)
-- 共同制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、[Xiuer](https://github.com/Steve-Yuu)
+- 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)、[Xiuer](https://github.com/Steve-Yuu)
+- 共同制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、ParMark Trum、Mukuro
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
