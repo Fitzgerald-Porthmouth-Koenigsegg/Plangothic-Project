@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 
-[日语 / 日本語](README.ja.md) | [英语 / English](README.en.md)
+[日文 / 日本語](README.ja.md) | [英文 / English](README.en.md)
 
 # Plangothic Project（遍黑体项目）
 [![视频介绍](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
@@ -22,7 +22,7 @@
 
 ## 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[La Striverage](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
-- 联合制作：[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、Mukuro、ParMark Trum、[Siphercase](https://github.com/Siphercase)
+- 联合制作：[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、[Siphercase](https://github.com/Siphercase)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
