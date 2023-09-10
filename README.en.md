@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 
-[Chinese/中文](README.md) | [Japanese/日本語](README.ja.md)
+[Chinese / 中文](README.md) | [Japanese / 日本語](README.ja.md)
 
 # Plangothic Project
 [![视频介绍](https://img.shields.io/badge/Video%20introduction-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
@@ -18,12 +18,12 @@ Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](http
 
 ## Coverage
 
-We have completed except for Extension B. Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
+We have completed all CJK extension blocks other than Extension B. Also, Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
 
 ## Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [Usagixineist](https://github.com/Usagixineist), [La Striverage](https://github.com/Lastriverage), [Xiuer](https://github.com/Steve-Yuu)
-- Co-producers: [Siphercase](https://github.com/Siphercase), [KathrynCG](https://github.com/KathrynCG), [Hulenkius](https://github.com/Hulenkius), ParMark Trum, Mukuro, Magnetshroom
-- Technical assistant: [0xAA55](https://github.com/0xAA55), [Henry Chan](https://github.com/hfhchan), [Baysoftware](https://github.com/yi-bai), Eiso Chan, [SomeyaMako](https://github.com/SomeyaMako)
+- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
+- Co-producers: [Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、[Siphercase](https://github.com/Siphercase)
+- Technical assistant: [0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
@@ -41,27 +41,27 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 ## FAQ
 **Q1**: Why are there two font files for Plangothic?
 
-**A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total number of CJK ideographs is much larger than this value.
+**A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total count of CJK ideographs is much greater than this value.
 
 **Q2**: What is the difference between *fallback* and *allideo* versions for P1?
 
-**A2**: The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not produced will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have not been produced will be replaced by Hanazono Mincho. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will disappear.
+**A2**: The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be replaced by the Hanazono Mincho font. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
 
-**Q3**: Why only P1 is divided into two types?
+**Q3**: Why P1 is divided into two types?
 
-**A3**: Because all characters in extensions G and H, covered by P2, have been produced, so there is no need to divide P2.
+**A3**: Because all characters in extensions G and H covered by P2, have been included, so there is no need to divide P2.
 
-**Q4**: Why does this project not include (or include a small amount of) CJK ideographs in the URO and extensions A?
+**Q4**: Why does this project just include a small amount of CJK ideographs in the URO and extensions A?
 
-**A4**: Because the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN.", if you need to CJK ideographs in the URO and extensions A, you can directly use Source Han Sans. The sporadic CJK ideographs in the URO and extensions A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs, They have been compared with other mainstream fonts and glyphs in the Unicode.
+**A4**: Since the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN", needs of using CJK ideographs in the URO and Extension A blocks can be solved by directly using the Source Han Sans font. As for these CJK ideographs scattered in the URO and Extension A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs to the project, they have been compared with other mainstream fonts and glyphs in the Unicode.
 
-**Q5**: Will there be a version containing other weight (or other local glyphs) in the future?
+**Q5**: Will there be a version containing other weights (or other local glyphs) in the future?
 
-**A5**: Because the quantities of this project are too large, so will not have this plan. If you have such an idea, you can make a derivative font version of the project with your requirements.
+**A5**: Since the quantities of this project are too large, so this request is not in our reach by now. If you have such ideas, you can make a derivative font version of the project with your requirements.
 
-**Q6**: Why is there no complex text layout (CTL) in this font?
+**Q6**: Why is there no Complex Text Layout (CTL) in this font?
 
-**A6**: Because the use of fonts in this project focuses on tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). I don't need to accurately typeset so many languages and characters, as long as I can see the characters. If you have such ideas, you can make a derivative font version of the project for your needs.
+**A6**: Because the use of fonts in this project focuses on pragmatic tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). Using CTL to typeset and display these languages and/or scripts is outside the coverage of this project. If you have such ideas, you can make a derivative font version of the project for your own needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
@@ -84,15 +84,12 @@ Before you make a donation, please be sure to note the following points.
 
 ## Other instructions
 1. Everyone is welcome to participate in the production of Plangothic Project. But you need to ensure that you have a certain foundation in the area of glyphs, font beauty, software use, Unicode, and other aspects. In this regard, you can join our QQ group [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) for detailed discussion and questioning.
-
-    **Group password: C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
-
-2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnel in font production and accept you to continue to improve the font based on this font. You can contact the author through the above contact information. The development of this project is inseparable from your publicity and encouragement.
-3. I am not a professional designer so the structure may look ugly, and the words added may be slightly inconsistent with the original version. In addition, due to time constraints, there is no extra time for fine finishing, and the splicing of parts of some glyphs will be very stiff. But it is better than nothing.
-4. **I am a Chinese mainland user, and there is no any overseas discussion group (like Telegram, Discord etc.) in this project. I apologize for the inconvenience caused by overseas users!**
-5. This project borrows or refers to other tools or open-source font projects in part or whole, mainly including:
+2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnels in font production and accept you to continue to improve this project. You can contact the author through said information. The development of this project is inseparable from your publicity and encouragement.
+3. Members of this project are NOT professional designers so unsightedly structures and inconsistencies with the original font may occur. In addition, due to time constraints, there is little extra time for polishing the font so stiff structring of some glyphs may also occur. Though it is better than nothing, so please forgive.
+4. **We members are all from Chinese mainland, due to some reasons we cannot provide overseas discussion groups (Telegram, Discord etc.) of this project. Apologize for the inconvenience!**
+5. This project borrows and/or refers to other tools and/or open-source font projects in part or whole, mainly including:
     - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。
-    - Other fonts in Noto series.
+    - Other fonts in the Noto series.
     - [Glyphwiki](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8) and KAGE Engine developed by [Kamichi Koichi](https://twitter.com/kamichikoichi)。
     - [すきまゴシック（Sukima Gothic）](https://oppekebekkanko.booth.pm/items/2117070)。
     - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)。
@@ -101,12 +98,12 @@ Before you make a donation, please be sure to note the following points.
     - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
     - [Nôm Na Tống](https://github.com/nomfoundation/font)。
     - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone)。
-    - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai)。
+    - [Zitools](https://zi.tools) developed by [Yi Bai](https://github.com/yi-bai)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
-6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through *.svg files (**S**calable **V**ector **G**raphics files). Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
+6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※Please note:
-  - The online *.svg files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I (draft).
-  - The online *.svg files may not be fully synchronized with the updates of this project, so please use them accordingly.
+  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I (draft).
+  - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.

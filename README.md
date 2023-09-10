@@ -21,7 +21,7 @@
 本字体现已支援除扩展 B 区以外全部位于扩展区的 CJK 统一汉字，扩展 C、D、E、F、I 区尚未进行精修，其他非汉字区块散有字形。
 
 ## 主要贡献者
-- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[La Striverage](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
+- 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
 - 联合制作：[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、[Siphercase](https://github.com/Siphercase)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)
 
@@ -85,10 +85,7 @@
 
 ## 其他说明
 1. 任何人都可以参与到遍黑体项目的制作中，但需确保您对地区字形、字形美观、软件使用、Unicode 等方面有一定的基础，关于此方面可加入该项目的 QQ 群 [1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD) 进行详细商讨质询。
-
-    **入群口令：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
-
-2. 本项目长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家在本字体的基础上继续完善该字体，您可以通过上面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
+2. 本项目长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家在继续完善该项目，您可以通过上面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
 3. 本项目成员并不是专业的设计师，字体的字形结构可能不甚美观，补字与原版相比可能略有违和感。此外由于成员时间与精力有限，项目并没有多余的时间精修，部分字的部件拼接会很生硬，请海涵。
 4. 本项目部分或全部借用或参考了其他工具或开源字体项目，主要包括：
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)。
@@ -108,5 +105,5 @@
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※请注意：
-  - 线上的 SVG 文件仅包含中日韩统一表意文字扩展B区至中日韩统一表意文字扩展I区（草案）。
+  - 线上的 SVG 文件仅包含中日韩统一表意文字扩展 B 区至中日韩统一表意文字扩展 I 区（草案）。
   - 线上的 SVG 文件不和本项目的更新完全同步，请酌情使用。

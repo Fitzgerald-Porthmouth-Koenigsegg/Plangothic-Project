@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 
-[中国語/中文](README.md) | [英語/English](README.en.md)
+[中国語 / 中文](README.md) | [英語 / English](README.en.md)
 
 # Plangothic Project（プランゴシックプロジェクト）
 [![视频介绍](https://img.shields.io/badge/ビデオ紹介-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
@@ -14,57 +14,57 @@
 </div>
 
 ## 概要
-Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸版をベースに、CJK統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020年6月頃より開発されています。
+Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。
 
 ## 収録範囲
 
-当フォントは現在、CJK統合漢字拡張Bを除く全範囲をサポートしていますが、拡張C・D・E・F・Iは確認が不十分で、CJK統合漢字外のブロックは部分的にのみ実装されています。
+当フォントは現在、CJK 統合漢字拡張 B を除く全範囲をサポートしていますが、拡張 C・D・E・F・I は確認が不十分で、CJK 統合漢字外のブロックは部分的にのみ実装されています。
 
 ## 主な開発メンバー
-- 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[Usagixineist](https://github.com/Usagixineist)、[La Striverage](https://github.com/Lastriverage)、[Xiuer](https://github.com/Steve-Yuu)
-- 共同制作：[Siphercase](https://github.com/Siphercase)、[KathrynCG](https://github.com/KathrynCG)、[Hulenkius](https://github.com/Hulenkius)、ParMark Trum、Mukuro、Magnetshroom
-- 技術協力：[0xAA55](https://github.com/0xAA55)、[Henry Chan](https://github.com/hfhchan)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[SomeyaMako](https://github.com/SomeyaMako)
+- 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
+- 共同制作：[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、[Siphercase](https://github.com/Siphercase)
+- 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
 
 ## ライセンス
-当フォントは源ノ角ゴシックの派生フォントであり、SIL Open Font Licenseのもとで提供されます。詳しくは[ライセンス](LICENSE.txt)をご覧ください。あなたは：
+当フォントは源ノ角ゴシックの派生フォントであり、SIL Open Font License のもとで提供されます。詳しくは[ライセンス](LICENSE.txt)をご覧ください。あなたは：
 
 - 商用を含め無料で使用できます。その際、原作者への連絡や明記は必要はありません。
 - フォントを自由に共有し、任意のソフトウェアやデバイスにインストールできます。
-- さらに、改変または二次制作物を作成できます。ただし派生物に「Plangothic」「遍黑」の名称を再使用することはできません。また、派生物もSIL Open Font Licenseを継承する必要があります。
+- さらに、改変または二次制作物を作成できます。ただし派生物に「Plangothic」「遍黑」の名称を再使用することはできません。また、派生物も SIL Open Font License を継承する必要があります。
 
-個人、企業、団体などが本フォントを使用、複製、修正、配布したり、本フォントに対してSIL Open Font Licenseの規定に該当する行為を行ったりした場合、使用、ダウンロード、またはライセンスの該当行為を行った当事者は、暗黙にSIL Open Font Licenseのすべての規定に同意したものとみなされます。
+個人、企業、団体などが本フォントを使用、複製、修正、配布したり、本フォントに対して SIL Open Font License の規定に該当する行為を行ったりした場合、使用、ダウンロード、またはライセンスの該当行為を行った当事者は、暗黙に SIL Open Font License のすべての規定に同意したものとみなされます。
 
 いかなる個人、企業、団体なども当フォントを有償で販売（フォント単体での販売、他のフォントとの抱き合わせ販売、フォントの使用に対する対価の要求等を含むが、これに限らない）してはなりません。あなたがこのフォントを有償で入手した場合、直ちに通報のうえ、必要に応じて司法当局にご相談ください。
 
 ## よくある質問
-**Q1**：なぜPlangothicのフォントファイルは2つあるのですか？
+**Q1**：なぜ Plangothic のフォントファイルは 2 つあるのですか？
 
-**A1**：1フォントファイルあたりの最大グリフ数は65535に制限されていますが、CJK統合漢字の数はこれよりはるかに多いからです。
+**A1**：1 フォントファイルあたりの最大グリフ数は 65535 に制限されていますが、CJK 統合漢字の数はこれよりはるかに多いからです。
 
-**Q2**：P1のfallback版とallideo版の違いは何ですか？
+**Q2**：P1の fallback 版と allideo 版の違いは何ですか？
 
-**A2**：fallback版は、すべてのCJK統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。allideo版は、すべてのCJK統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で置き換えたものです。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべてのCJK統合漢字を完全に上書きした場合、fallback版はなくなります。
+**A2**：Fallback 版は、すべての CJK 統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo 版は、すべての CJK 統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で置き換えたものです。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべての CJK 統合漢字を完全に上書きした場合、fallback 版はなくなります。
 
-**Q3**：なぜP1だけが2種類に分かれているのですか？
+**Q3**：なぜ P1 だけが 2 種類に分かれているのですか？
 
-**A3**：P2に含まれる拡張Gと拡張Hの漢字は全て制作済みなので、区分する必要がないからです。
+**A3**：P2 に含まれる拡張 G と拡張 H の漢字は全て制作済みなので、区分する必要がないからです。
 
-**Q4**：なぜこのプロジェクトにはURO（基本ブロック）と拡張Aの漢字が含まれていない（または少量含まれている）のですか？
+**Q4**：なぜこのプロジェクトには URO（基本ブロック）と拡張 A の漢字が少量含まれているのですか？
 
-**A4**：本プロジェクトの趣旨は「[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)ベースの補完」であるため、UROと拡張AのCJK漢字を表示したい場合は、そのまま源ノ角ゴシックを使用できます。本プロジェクトに含まれるまばらなUROと拡張Aの文字は、いずれもUnicodeでグリフ変更があったり、本プロジェクトの趣旨に合わない文字です。これらの漢字を追加する前には、他の主なフォントやUnicodeコード表のグリフと比較しています。
+**A4**：本プロジェクトの趣旨は「[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)ベースの補完」であるため、URO と拡張 A の CJK 漢字を表示したい場合は、そのまま源ノ角ゴシックを使用できます。本プロジェクトに含まれるまばらな URO と拡張 A の文字は、いずれも Unicode でグリフ変更があったり、本プロジェクトの趣旨に合わない文字です。これらの漢字を追加する前には、他の主なフォントや Unicode コード表のグリフと比較しています。
 
 **Q5**：将来、他のウェイト（または他地域のグリフ）を追加する予定はありますか？
 
 **A5**：このプロジェクトの作業量は膨大なため、その予定はありません。ご関心のある方は、各自で派生フォントを作成することができます。
 
-**Q6**: なぜこのフォントに複雑なテキストレイアウト（CTL）がないのでしょうか？
+**Q6**: なぜこのフォントに複雑なテキストレイアウト（Complex Text Layout, CTL）がないのでしょうか？
 
-**A6**: 当プロジェクトは、[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)、あるいは[Unifont](https://unifoundry.com/unifont)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。ご関心のある方は、各自で派生フォントを作成することができます。
+**A6**: 当プロジェクトは、[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)、あるいは[Unifont](https://unifoundry.com/unifont)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。CTL を用いてこれらの文字を組版すことは、このプロジェクトの対象外である。ご関心のある方は、各自で派生フォントを作成することができます。
 
 ## ご協力のお願い
-「蹞歩を積まざれば、以って千里に至るなし」。Plangothicは時間のかかる地道なプロジェクトであり、あなたからのご支援を心よりお待ちしております。皆様からのご寄付は、当プロジェクトの発展に大変役立ちます。ご寄付以外にも、誤ったグリフのチェックや、見た目の悪いグリフの改善提案など、様々な形で貢献することも可能です。
+「蹞歩を積まざれば、以って千里に至るなし」。Plangothic は時間のかかる地道なプロジェクトであり、あなたからのご支援を心よりお待ちしております。皆様からのご寄付は、当プロジェクトの発展に大変役立ちます。ご寄付以外にも、誤ったグリフのチェックや、見た目の悪いグリフの改善提案など、様々な形で貢献することも可能です。
 
 寄付をする前に、以下の点にご注意ください。
 
@@ -84,17 +84,14 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 - QQ: 374601620
 
 ## その他の説明
-1. Plangothicの制作には、誰でも参加することができます。しかし、地域別字形、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQグループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
-
-    **グループパスワード：C3XSWQAZX2CD11E2W3QA3ZX2CDEQA3**
-
-2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothicの発展は皆様のお力にかかっています。
-3. 作者はプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
-4. **私は中国本土のユーザーで、このプロジェクトにはTelegram、Discordなどの海外ディスカッショングループはありません。海外ユーザーの皆様、ご迷惑をおかけして申し訳ありません！**
+1. Plangothic の制作には、誰でも参加することができます。しかし、地域別字形、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQ グループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
+2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothic の発展は皆様のお力にかかっています。
+3. このプロジェクトのメンバーたちはプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
+4. **このプロジェクトのメンバーたちは中国本土のユーザーで、このプロジェクトには Telegram、Discord などの海外ディスカッショングループはありません。海外ユーザーの皆様、ご迷惑をおかけして申し訳ありません！**
 5. 本プロジェクトは、主に以下のツールまたはオープンソースフォントプロジェクトの一部またはすべてを使用、ないし参考にしています：
     - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)。
-    - 他のNotoフォント。
-    - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)とKAGE Engine。
+    - 他の Noto フォント。
+    - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)と KAGE Engine。
     - [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)。
     - [綿雲飴里](https://github.com/MY1L)氏による[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
     - [Chiron Hei HK（昭源黑體）](https://github.com/chiron-fonts/chiron-hei-hk)。
@@ -104,10 +101,10 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [魏安（Andrew West、アンドリュー・ウェスト）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
-6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって*.svgファイル（スケーラブルベクターグラフィックスファイル）を使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の16進コードポイント}.svg>」リンクを使用して取得することができます。
+6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※注意：
-  - オンラインの*.svgファイルには、CJK統合漢字拡張B領域からCJK統合漢字拡張I（草案）までの文字しか含まれていません。
-  - オンラインの*.svgファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。
+  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I（草案）までの文字しか含まれていません。
+  - オンラインの SVG ファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。
