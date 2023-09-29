@@ -105,5 +105,5 @@ Before you make a donation, please be sure to note the following points.
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※Please note:
-  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I (draft).
+  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I.
   - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.

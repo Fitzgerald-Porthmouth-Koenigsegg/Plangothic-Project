@@ -106,5 +106,5 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※注意：
-  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I（草案）までの文字しか含まれていません。
+  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I までの文字しか含まれていません。
   - オンラインの SVG ファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。

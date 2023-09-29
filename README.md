@@ -105,5 +105,5 @@
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
 ※请注意：
-  - 线上的 SVG 文件仅包含中日韩统一表意文字扩展 B 区至中日韩统一表意文字扩展 I 区（草案）。
+  - 线上的 SVG 文件仅包含中日韩统一表意文字扩展 B 区至中日韩统一表意文字扩展 I 区。
   - 线上的 SVG 文件不和本项目的更新完全同步，请酌情使用。
