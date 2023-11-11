@@ -22,8 +22,8 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 ## 主な開発メンバー
 - 制作コア：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
-- 共同制作：[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、[Siphercase](https://github.com/Siphercase)
-- 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)
+- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、Cod'dte
+- 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
 
