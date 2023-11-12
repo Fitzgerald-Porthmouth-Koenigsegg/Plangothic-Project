@@ -23,7 +23,7 @@
 ## 主要贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
 - 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
