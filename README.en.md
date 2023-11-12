@@ -22,7 +22,7 @@ We have completed all CJK extension blocks other than Extension B. Also, Extensi
 
 ## Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
-- Co-producers: Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[ParMark Trum](https://github.com/ParMarkTrum)、Cod'dte
+- Co-producers: Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)
 - Technical assistant: [0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[SomeyaMako](https://github.com/SomeyaMako)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
