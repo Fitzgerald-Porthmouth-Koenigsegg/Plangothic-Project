@@ -25,7 +25,7 @@
 
 ## 关于此fork
 ※请注意：
-本fork使用 https://githubfast.com/GuiWonder/toWinFonts 的 releases 里的 TTC合成程序 来将Plangothic Project（遍黑体项目）的两个字体合并成一个
+本fork使用 [toWinFonts](https://githubfast.com/GuiWonder/toWinFonts) 的 releases 里的 TTC合成程序 来将Plangothic Project（遍黑体项目）的两个字体合并成一个
 但是会有两个文件，参考原回答：
 “
 
