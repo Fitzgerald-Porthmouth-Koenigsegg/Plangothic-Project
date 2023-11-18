@@ -25,15 +25,16 @@
 
 ## 关于此fork
 ※请注意：
-本fork使用 https://githubfast.com/GuiWonder/toWinFonts 来将Plangothic Project（遍黑体项目）的两个字体合并成一个
-但是会有两个文件，参考原回答：“
+本fork使用 https://githubfast.com/GuiWonder/toWinFonts 的 releases 里的 TTC合成程序 来将Plangothic Project（遍黑体项目）的两个字体合并成一个
+但是会有两个文件，参考原回答：
+“
 
 Q2：P1 名称中的 fallback 和 allideo 有什么区别？
 
 A2：Fallback 文件适用于目前已安装的字体能显示全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。Allideo 文件文件适用于目前已安装的字体不能显示全部汉字的用户，其中还没有制作黑体的表意文字部分将使用花园明朝（Hanazono Mincho）取代之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback 文件将会消失。
 
 ”
-
+/
 本fork的releases里也会有两个文件：
 Plangothic-fallback.ttc  &  Plangothic-allideo.ttc
 
