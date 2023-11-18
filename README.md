@@ -1,9 +1,5 @@
 <div align="center">
 
-![Image text](https://githubfast.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
-
-[日文 / 日本語](README.ja.md) | [英文 / English](README.en.md)
-
 # Plangothic Project（遍黑体项目）
 [![视频介绍](https://img.shields.io/badge/%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
 [![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=发行版下载&logo=data:image/png;base64,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)](https://githubfast.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
@@ -15,17 +11,6 @@
 
 ## 概述
 遍黑体项目是基于[思源黑体](https://githubfast.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，该项目于 2020 年 6 月前后启动。
-
-## 收录范围
-
-本字体现已支援除扩展 B 区以外全部位于扩展区的 CJK 统一汉字，扩展 C、D、E、F、I 区尚未进行精修，其他非汉字区块散有字形。
-
-## 主要贡献者
-- 主制作：[Fitzgerald](https://githubfast.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://githubfast.com/Lastriverage)、[Usagixineist](https://githubfast.com/Usagixineist)、[Xiuer](https://githubfast.com/Steve-Yuu)
-- 联合制作：Magnetshroom、[Mukuro](https://githubfast.com/Hayashizawa)、[StarShip Pama](https://githubfast.com/StarShipPaMa)、[Cod'dte](https://githubfast.com/buwuzhengyedexiaoji)
-- 其他技术协助：[0xAA55](https://githubfast.com/0xAA55)、[Baysoftware](https://githubfast.com/yi-bai)、Eiso Chan、[Henry Chan](https://githubfast.com/hfhchan)、[Hulenkius](https://githubfast.com/Hulenkius)、[KathrynCG](https://githubfast.com/KathrynCG)、[Siphercase](https://githubfast.com/Siphercase)、Boris Ivanovich
-
-还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
 ## 字体授权
 本字体基于 SIL Open Font License 修改、补充思源黑体和发布。详见[授权文件](LICENSE.txt)，您可以：
@@ -39,3 +24,14 @@
 严禁任何个人、企业、团队等对该字体文件进行倒卖兜售（包括但不限于将字体文件单独售卖，与其他字体进行捆绑售卖、需付费办理特殊权限才可使用字体等行为），如您是付费获得的此字体，请立刻对其进行举报，必要时可协助相关司法机关。
 
 ※请注意：
+本fork使用 https://githubfast.com/GuiWonder/toWinFonts 来将Plangothic Project（遍黑体项目）的两个字体合并成一个
+但是会有两个文件，参考原回答：“
+
+Q2：P1 名称中的 fallback 和 allideo 有什么区别？
+
+A2：Fallback 文件适用于目前已安装的字体能显示全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。Allideo 文件文件适用于目前已安装的字体不能显示全部汉字的用户，其中还没有制作黑体的表意文字部分将使用花园明朝（Hanazono Mincho）取代之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback 文件将会消失。
+
+”
+
+本fork的releases里也会有两个文件：
+Plangothic-fallback.ttc  &  Plangothic-allideo.ttc
