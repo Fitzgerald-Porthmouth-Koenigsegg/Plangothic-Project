@@ -36,3 +36,5 @@ A2：Fallback 文件适用于目前已安装的字体能显示全部汉字的用
 
 本fork的releases里也会有两个文件：
 Plangothic-fallback.ttc  &  Plangothic-allideo.ttc
+
+为什么本fork的main里是两个zip格式的文件，因为单个文件超过25MB无法上传，只能压缩上传。
