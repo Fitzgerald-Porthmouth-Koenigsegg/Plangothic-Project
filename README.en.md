@@ -11,6 +11,7 @@
 [![星标](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?label=Stars&color=critical&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAdCAYAAAC5UQwxAAADKUlEQVRIib2WX0iTURTAz737tpWEissM6c9cOUUkCqmHpYEtfAiFyl4yCoQefOmhHozAECGweskMw+hRitRQsD8ULSl0H1mUIDRr5myVpgvJQvP7f+P7Nsfc9s3dMTpw4ePee87vnHvvOeeD/y2IEEKNFOYHMom8lGHedGKWVjcloDJu7QLxRz7exTtpdRlqmurlot+KAHAqutRKsu/YeaQABgIge/e30upTR2hY6K8FEzhADfE3q9DqU0Uo+uoaQFCpQU01UmXS2UJjg+7RjCI3EHBoQFUIABFhGO0lFcmaSDpC6cuZ01p0kZcQilL21TQmayfpCMkoGkIA5TEuKlqkLL/dVWG2ONe80xggH7iXj4XPdiz5rUicKgDBZ8OC36Y+EsDggGj/1HlZ+2KJectXhSnwEaN1Ckw2n8zs8JrzTn1ftZ2bbjeb5i42gwHKkLy0QVNWwBE2hiNGIlEixopTGFjtvg0Zf4kEb+W8C1e1CCVP2XXm1/t9kAGO1NI5gajwJWBJVqEXlXrrNfNMybtzYu6RXuCBTTMOgAOW5FYOqjCIfKVGe3+baDnaC8tphC4Dq+Q4Xcg+eGllatUBGgv72kRLbXdaoBrskAvbXc2R0zE3Zix80C5Zjgeh9I0kAlb1DNufN0cv6eahOFnXYFzoPgmMUk4FE9Gwkl39EO8cuBZvOWHiK2NZj7H053C4lK0lMgDBxpdot1CptzNhEmCymKnlYrKiWiNiwg6kC+R/9uWAqGCqvEQASAIszHYWUwOx4CkNVxwaIeBAwoSdGogEb6wSClUOtWvwoe/oI1cbszBeqmdX97yR4C2KcYcL1kcpt/4O4PUcE7h1VqudplBJDDmAhU9F9EDxY3EYKGiFmZWzK11SXlOLOftgsA1t67gvT9Q0GhYeaUcJ5tDfgOS36tkFNS3iDWUUhsgbIOQ1uGXPnhtcoGej3l5u/sk6yeNoJSPgJiNAyDtwc/MvcLy98Q3MdJSQIXArY9YubqbTrgeKHnzgbr78oeQ2eQVu8VtTVbw9cRNfnL58APFzmxnbzR7do0kg4lRjNWGwZNp65Wkq+ukTAPgHIIGzcZjmG+EAAAAASUVORK5CYII=
 )](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)
 [![License](https://img.shields.io/static/v1?label=License&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE.txt)
+[![QQ Group](https://img.shields.io/badge/QQ%20Group-1135661191-critical?logo=tencentqq)](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)
 </div>
 
 ## Overview
@@ -20,6 +21,9 @@ Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](http
 
 We have completed all CJK extension blocks other than Extension B. Also, Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
 
+> [!WARNING]
+>
+> This font is currently in an unfinished stage and still lacks a large number of CJK ideographs.
 ## Main contributors
 - Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
 - Co-producers: Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)
@@ -104,6 +108,6 @@ Before you make a donation, please be sure to note the following points.
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
-※Please note:
-  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I.
-  - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.
+> [!IMPORTANT]
+>  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I.
+>  - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.
