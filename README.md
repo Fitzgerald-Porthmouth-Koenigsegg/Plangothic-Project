@@ -11,7 +11,10 @@
 
 ## 概述
 遍黑体项目是基于[思源黑体](https://githubfast.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，该项目于 2020 年 6 月前后启动。
-
+> [!WARNING]
+>
+> 该字体目前处于未完成阶段，仍然缺少大量汉字。
+> 
 ## 字体授权
 本字体基于 SIL Open Font License 修改、补充思源黑体和发布。详见[授权文件](LICENSE.txt)，您可以：
 
