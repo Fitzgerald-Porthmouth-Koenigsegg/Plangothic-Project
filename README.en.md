@@ -111,3 +111,26 @@ Before you make a donation, please be sure to note the following points.
 > [!IMPORTANT]
 >  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I.
 >  - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.
+## About "Planiverse"
+This font family was founded by Fitzgerald in December 2023 and currently includes several sub font projects as follows:
+1. **Plangothic Project**: Based on Source Han Sans CN and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension.
+    - **Project status**: The project ontology and project homepage have been created, but have not been completed.
+2. **Planwritzen Project**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard, the character range is temporarily set to align with the Plangothic Project (or there may be an extension of the range).
+    - **Project status**: The project ontology and project homepage have been created, but have not been created project mainpage.
+3. **Planserif Project**: Based on Huiwen-mincho and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
+    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+4. **Planseal Project**: Based on seal font in the *Discussing Writing And Explaining（Shuowen Jiezi，说文解字）* and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
+    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+5. **Planicon Project**: Based on CJK ideographs icons in the Zitools and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to URO and Extension A, Other CJK ideographs are partly available.
+    - **Project status**: The project ontology and project homepage have been created, but have not been created project mainpage, and the project name is tentative.
+    > [!WARNING]
+    >
+    > 1. Strictly speaking, the project does not meet the requirements for inclusion in the "Planiverse", but for convenience, it is still included in the family.
+    > 2. This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
+6. **Plankangxi Project**: Based on Hall of Martial Valor（Wuying Palace，武英殿） version in the *Kangxi Dictionary（康熙字典）* and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
+    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+    > [!WARNING]
+    >
+    > This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
+7. **Planhangul Project**：Based on Source Han Sans CN but for the project of making the Hangul in the form of CJK ideographs, the character range is temporarily set to basic Hangul and extension Hangul.
+    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.

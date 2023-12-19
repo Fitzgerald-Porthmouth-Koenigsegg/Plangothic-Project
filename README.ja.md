@@ -4,7 +4,7 @@
 
 [中国語 / 中文](README.md) | [英語 / English](README.en.md)
 
-# Plangothic Project（プランゴシック・プロジェクト）
+# プランゴシック・プロジェクト（Plangothic Project）
 [![视频介绍](https://img.shields.io/badge/ビデオ紹介-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
 [![下载](https://img.shields.io/github/release/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?color=critical&label=リリースバージョン&logo=data:image/png;base64,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)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![总下载](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=トータルダウンロード&logo=data:image/png;base64,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)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
@@ -47,7 +47,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 **A1**：1 フォントファイルあたりの最大グリフ数は 65535 に制限されていますが、CJK 統合漢字の数はこれよりはるかに多いからです。
 
-**Q2**：P1の fallback 版と allideo 版の違いは何ですか？
+**Q2**：P1 の fallback 版と allideo 版の違いは何ですか？
 
 **A2**：Fallback 版は、すべての CJK 統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo 版は、すべての CJK 統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で置き換えたものです。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべての CJK 統合漢字を完全に上書きした場合、fallback 版はなくなります。
 
@@ -88,7 +88,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 - QQ: 374601620
 
 ## その他の説明
-1. Plangothic の制作には、誰でも参加することができます。しかし、地域別字形、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQ グループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
+1. Plangothic の制作には、誰でも参加することができます。しかし、地域別グリフ、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQ グループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
 2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothic の発展は皆様のお力にかかっています。
 3. このプロジェクトのメンバーたちはプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
 4. **このプロジェクトのメンバーたちは中国本土のユーザーで、このプロジェクトには Telegram、Discord などの海外ディスカッショングループはありません。海外ユーザーの皆様、ご迷惑をおかけして申し訳ありません！**
@@ -112,3 +112,26 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 > [!IMPORTANT]
 >  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I までの文字しか含まれていません。
 >  - オンラインの SVG ファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。
+## 「プランニヴァース」（Planiverse）について
+このフォントファミリーは、Fitzgerald によって 2023 年 12 月に作成され、現在は次のサブフォントプロジェクトが含まれています：
+1. **Plangothic Project（プランゴシック・プロジェクト）**：源ノ角ゴシックの中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。
+    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページを作成しましたが、完了していません。
+2. **Planwritzen Project（プランライト・プロジェクト）**：Fitzgerald 独自の手書き体ベースに、プランゴシック・プロジェクト中のグリフを標準とするフォントプロジェクトであり、その文字収録範囲は暫定的にプランゴシック・プロジェクトと整列する。
+    - **プロジェクトステータス**：プロジェクト本体は作成されていますが、プロジェクトホームページは作成されていません。
+3. **Planserif Project（プランセリフ・プロジェクト）**：Huiwen-Mincho（匯文明朝）ベースに、CJK 統合漢字拡張ブロックを補完するフォントの作成を目指すプロジェクトです、その文字収録範囲は暫定的にプランゴシック・プロジェクトと整列する。
+    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず、プロジェクト名は暫定的である。
+4. **Planseal Project（プランシール・プロジェクト）**：『説文解字』小篆ベースに、CJK 統合漢字拡張ブロックを補完するフォントの作成を目指すプロジェクトです、その文字収録範囲は暫定的にプランゴシック・プロジェクトと整列する。
+    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず、プロジェクト名は暫定的である。
+5. **Planicon Project（プランイコン・プロジェクト）**：Zitoolsにおける漢字アイコンの一部にベースづくグリフ補足のプロジェクト，その文字収録範囲は暫定的に URO と拡張 A であり、そ他 CJK 統合漢字拡张のブロックは部分的にのみ実装されています。
+    - **プロジェクトステータス**：プロジェクト本体は作成されていますが、プロジェクトホームページは作成されていません、プロジェクト名は暫定的である。
+    > [!WARNING]
+    >
+    > 1. 厳密な意味では、このプロジェクトは「プランニヴァース」に収録される要件には適合していないが、便宜上、このプロジェクトをこの家族に組み込んでいる。
+    > 2. このプロジェクトは著作権紛争が生じやすいと疑われており、保留できるかどうかは議論を待たなければならない。
+6. **Plankangxi Project（プランコウキジ・プロジェクト）**：武英殿版『康熙字典』ベースに、CJK 統合漢字拡張ブロックを補完するフォントの作成を目指すプロジェクトです、その文字収録範囲は暫定的にプランゴシック・プロジェクトと整列する。
+    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず、プロジェクト名は暫定的である。
+    > [!WARNING]
+    >
+    > このプロジェクトは著作権紛争が生じやすいと疑われており、保留できるかどうかは議論を待たなければならない。
+7. **Planhangul Project（プランハングル・プロジェクト）**：源ノ角ゴシックベースに、漢字の形式で韓國文の字形制作を行うプロジェクトでは、その文字収録範囲は暫定的に基本韓國文と拡張韓國文となっている。
+    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず、プロジェクト名は暫定的である。
