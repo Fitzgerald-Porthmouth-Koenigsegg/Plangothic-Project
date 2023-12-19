@@ -123,12 +123,14 @@ This font family was founded by Fitzgerald in December 2023 and currently includ
     - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
 5. **Planicon Project**: Based on CJK ideographs icons in the Zitools and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to URO and Extension A, Other CJK ideographs are partly available.
     - **Project status**: The project ontology and project homepage have been created, but have not been created project mainpage, and the project name is tentative.
+
     > [!WARNING]
     >
     > 1. Strictly speaking, the project does not meet the requirements for inclusion in the "Planiverse", but for convenience, it is still included in the family.
     > 2. This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
 6. **Plankangxi Project**: Based on Hall of Martial Valor（Wuying Palace，武英殿） version in the *Kangxi Dictionary（康熙字典）* and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
     - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+    
     > [!WARNING]
     >
     > This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
