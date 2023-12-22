@@ -65,7 +65,7 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **Q6**: Why is there no Complex Text Layout (CTL) in this font?
 
-**A6**: Because the use of fonts in this project focuses on pragmatic tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). Using CTL to typeset and display these languages and/or scripts is outside the coverage of this project. If you have such ideas, you can make a derivative font version of the project for your own needs.
+**A6**: Because the use of fonts in this project focuses on pragmatic tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). Using CTL to typeset and display these languages and/or scripts is outside the coverage of this project, similarly, Ideographs Variation Selector (IVS) is not within the scope of this project. If you have such ideas, you can make a derivative font version of the project for your own needs.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
