@@ -24,10 +24,10 @@
 > [!WARNING]
 >
 > 该字体目前处于未完成阶段，仍然缺少大量汉字。
-## 主要贡献者
+## 贡献者
 - 主制作：[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
-- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
+- 联合制作：Magnetshroom、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
@@ -63,9 +63,9 @@
 
 **A5**：因为本项目工程量过于庞大，所以不会有此打算。若您有类似想法，可自行制作有关于您需求的该项目的衍生字体版本。
 
-**Q6**：为什么这个项目里的字体没有复杂文种排版（CTL）功能？
+**Q6**：为什么这个项目里的字体没有复杂文种排版（CTL）或是异体字选择器（IVS）功能？
 
-**A6**：因为本项目的字体使用性质侧重于工具字体（即不负责排版仅负责显示），类似于[绵云饴里](https://github.com/MY1L)所开发的 [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) 和 [Unifont](https://unifoundry.com/unifont)。使用复杂文种处理准确地排版这些语言文字在本项目的涵盖范围之外，类似的，异体字选择器（IVS）亦不在本项目的涵盖范围。若您有此类想法，可自行制作有关于您需求的该项目的衍生字体版本。
+**A6**：因为本项目的字体使用性质侧重于工具字体、亦即不负责排版仅负责显示（类似于[绵云饴里](https://github.com/MY1L)所开发的 [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) 和 [Unifont](https://unifoundry.com/unifont)），使用复杂文种处理准确地排版这些语言文字、或是使用异体字选择器（IVS）显示其它地区字形的机能**并不在**本项目的涵盖范围内。若您有类似的想法，可自行制作满足您需求的衍生字体。
 
 ## 支持我们
 「不积跬步，无以至千里。」遍黑体项目制作难度大，制作时间长，若愿意支持我们，在此致以诚挚感谢！您的捐助可以帮助遍黑体项目以更好发展。您还可以通过其他方式目做出贡献，如帮助检查错误字形、对不美观字形提出改进意见等。

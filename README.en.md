@@ -15,7 +15,7 @@
 </div>
 
 ## Overview
-Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. The project was initiated around June 2020.
+Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020.
 
 ## Coverage
 
@@ -23,11 +23,11 @@ We have completed all CJK extension blocks other than Extension B. Also, Extensi
 
 > [!WARNING]
 >
-> This font is currently in an unfinished stage and still lacks a large number of CJK ideographs.
-## Main contributors
-- Main producers: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)、[G4GE](https://github.com/Lastriverage)、[Usagixineist](https://github.com/Usagixineist)、[Xiuer](https://github.com/Steve-Yuu)
-- Co-producers: Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[StarShip Pama](https://github.com/StarShipPaMa)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)
-- Technical assistant: [0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、Boris Ivanovich
+> This font is currently uncompleted and still lacks large numbers of CJK ideographs.
+## Contributors
+- Main: [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg), [G4GE](https://github.com/Lastriverage), [Usagixineist](https://github.com/Usagixineist), [Xiuer](https://github.com/Steve-Yuu)
+- Collab: [Cod'dte](https://github.com/buwuzhengyedexiaoji), Magnetshroom, [Mukuro](https://github.com/Hayashizawa), [StarShip Pama](https://github.com/StarShipPaMa)
+- Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, Eiso Chan, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [KathrynCG](https://github.com/KathrynCG), [Siphercase](https://github.com/Siphercase)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
@@ -63,9 +63,9 @@ It is strictly prohibited for any individual, enterprise, or team to sell the fo
 
 **A5**: Since the quantities of this project are too large, so this request is not in our reach by now. If you have such ideas, you can make a derivative font version of the project with your requirements.
 
-**Q6**: Why is there no Complex Text Layout (CTL) in this font?
+**Q6**: Why is there no Complex Text Layout (CTL) and/or Ideographs Variation Selectors (IVSs) in this font?
 
-**A6**: Because the use of fonts in this project focuses on pragmatic tool fonts, that is, they are not responsible for typesetting but only for display, similar to [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L), [Unifont](https://unifoundry.com/unifont). Using CTL to typeset and display these languages and/or scripts is outside the coverage of this project, similarly, Ideographs Variation Selector (IVS) is not within the scope of this project. If you have such ideas, you can make a derivative font version of the project for your own needs.
+**A6**: The fonts of this project orientate themselves as pragmatic tool fonts, that is they are not responsible for precise typesetting but only for display (see [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L) and [Unifont](https://unifoundry.com/unifont)). Using CTL to typeset and display these scripts, and displaying regional variation ideographs other than the CN variant using IVSs is OUTSIDE the coverage of the project. If you have such ideas, you can produce derivation fonts of this project by yourself if in need.
 
 ## Support us
 "Without the accumulation of half-steps, a thousand miles cannot be covered." It's a difficult and long project, so if you would like to support us, we would like to express our sincere thanks! Your donation will help the project to develop better. You can also contribute in other ways, such as helping to check for wrong glyphs, suggesting improvements to abominable glyphs, etc.
@@ -108,29 +108,35 @@ Before you make a donation, please be sure to note the following points.
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
 ![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+
 > [!IMPORTANT]
->  - The online SVG files only include CJK Unified ideographic extension B to CJK Unified ideographic extension I.
->  - The online SVG files may not be fully synchronized with the updates of this project, so please use them accordingly.
-## About "Planiverse"
-This font family was founded by Fitzgerald in December 2023 and currently includes several sub font projects as follows:
-1. **Plangothic Project**: Based on Source Han Sans CN and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension.
-    - **Project status**: The project ontology and project homepage have been created, but have not been completed.
-2. **Planwritzen Project**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard, the character range is temporarily set to align with the Plangothic Project (or there may be an extension of the range).
-    - **Project status**: The project ontology and project homepage have been created, but have not been created project mainpage.
-3. **Planserif Project**: Based on Huiwen-mincho and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
-    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
-4. **Planseal Project**: Based on seal font in the *Discussing Writing And Explaining（Shuowen Jiezi，说文解字）* and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
-    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
-5. **Planicon Project**: Based on CJK ideographs icons in the Zitools and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to URO and Extension A, Other CJK ideographs are partly available.
-    - **Project status**: The project ontology and project homepage have been created, but have not been created project mainpage, and the project name is tentative.
+>  - The online SVG files only include CJK Unified Ideographs Extension blocks B to Extension I.
+>  - The online SVG files may not simultaneously synchronize with the updates of this project, please use with discreation.
+
+## About "The Planiverse"
+Founded by Fitzgerald in December 2023 and includes several sub-projects currently as follows:
+1. **Plangothic Project**: Based on Source Han Sans CN and takes the CN variant as the standard to supplement the CJK Unified Ideographs Extension blocks.
+    - **Status**: Created project and its homepage. Uncompleted.
+2. **Planwritzen Project**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard. Character range set to align with the Plangothic Project temporarily (or there may be an extension).
+    - **Status**: Created project without homepage. Uncompleted.
+3. **Planserif Project**: Based on Huiwen-mincho supplementing the CJK Unified Ideographs Extension blocks. Temporary character range set to align with the Plangothic Project.
+    - **Status**: Not created. Name tentative.
+4. **Planseal Project**: Based on the seal script in *Shuowen Jiezi* and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to align with the Plangothic Project.
+    - **Status**: Not created. Name tentative.
+5. **Planicon Project**: Based on CJK ideographs icons in the [Zi.tools](https://zi.tools/) and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to URO and Extension A. Other ideographs are partly available.
+    - **Status**: Not created. Name tentative.
+
 > [!WARNING]
 >
-> 1. Strictly speaking, the project does not meet the requirements for inclusion in the "Planiverse", but for convenience, it is still included in the family.
-> 2. This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
-6. **Plankangxi Project**: Based on Hall of Martial Valor（Wuying Palace，武英殿） version in the *Kangxi Dictionary（康熙字典）* and as the standard to supplement the CJK Unified ideographic extension, the character range is temporarily set to align with the Plangothic Project.
-    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+> 1. Strictly speaking, the project does not meet the requirements for "The Planiverse", but still included for convenience.
+> 2. Prone to copyright disputes, its reservation needs to be discussed.
+
+6. **Plankangxi Project**: Based on the Wuying Hall version of *Kangxi Dictionary* and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to align with the Plangothic Project.
+    - **Status**: Not created. Name tentative.
+
 > [!WARNING]
 >
-> This project is prone to copyright disputes, so whether it can be reserved needs to be discussed.
-7. **Planhangul Project**：Based on Source Han Sans CN but for the project of making the Hangul in the form of CJK ideographs, the character range is temporarily set to basic Hangul and extension Hangul.
-    - **Project status**: The project ontology and project homepage have not been created, and the project name is tentative.
+> Prone to copyright disputes, its reservation needs to be discussed.
+
+7. **Planhangul Project**：Based on Source Han Sans CN, creating Hangul in the form of CJK ideographs. Temporary  character range set to Hangul and Hangul Extension.
+    - **Status**: Not created. Name tentative.
