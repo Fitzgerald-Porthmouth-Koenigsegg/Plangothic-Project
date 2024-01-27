@@ -115,21 +115,22 @@ Before you make a donation, please be sure to note the following points.
 
 ## About "The Planiverse"
 Founded by Fitzgerald in December 2023 and includes several sub-projects currently as follows:
-1. **Plangothic Project**: Based on Source Han Sans CN and takes the CN variant as the standard to supplement the CJK Unified Ideographs Extension blocks.
+1. **Plangothic Project (Chinese: 遍黑体项目)**: Based on Source Han Sans CN and takes the CN variant as the standard to supplement the CJK Unified Ideographs Extension blocks.
     - **Status**: Created project and its homepage. Uncompleted.
-2. **Planwritzen Project**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard. Character range set to align with the Source Han Sans + Plangothic Project temporarily (or there may be an extension).
+2. **Planwritzen Project (Chinese: 遍蕤体项目)**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard. Character range set to align with the Source Han Sans + Plangothic Project temporarily (or there may be an extension).
     - **Status**: Created project without homepage. Uncompleted.
-3. **Planserif Project**: Based on Huiwen-mincho supplementing the CJK Unified Ideographs Extension blocks. Temporary character range expanded from the range of Huiwen-mincho to Source Han Sans + Plangothic Project.
+3. **Planschrift Project (Chinese: 遍玨体项目)**: Based on Huiwen-mincho supplementing the CJK Unified Ideographs Extension blocks. Temporary character range expanded from the range of Huiwen-mincho to Source Han Sans + Plangothic Project.
+    - **Status**: Not created.
+4. **Planseal Project (Chinese: 遍篆体项目)**: Based on the seal script in *Shuowen Jiezi* and as the standard to supplement the CJK Unified Ideographs Extension blocks.
     - **Status**: Not created. Name tentative.
-4. **Planseal Project**: Based on the seal script in *Shuowen Jiezi* and as the standard to supplement the CJK Unified Ideographs Extension blocks.
+5. **Planicon Project (Chinese: 遍象体项目)**: Based on CJK ideographs icons in the [Zi.tools](https://zi.tools/) and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to URO and Extension A. Other ideographs are partly available.
     - **Status**: Not created. Name tentative.
-5. **Planicon Project**: Based on CJK ideographs icons in the [Zi.tools](https://zi.tools/) and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to URO and Extension A. Other ideographs are partly available.
+6. **Plantsing Project (Chinese: 遍擎体项目)**: Based on the Wuying Hall version of *Kangxi Dictionary* and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to align with the Plangothic Project.
+    - **Status**: Not created.
+7. **Planhangul Project (Chinese: 遍训体项目)**: Based on Source Han Sans CN, creating Hangul in the form of CJK ideographs. Temporary  character range set to Hangul and Hangul Extension.
     - **Status**: Not created. Name tentative.
-6. **Plankangxi Project**: Based on the Wuying Hall version of *Kangxi Dictionary* and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to align with the Plangothic Project.
+8. **Planfixibit Project (Chinese: 遍缮体项目)**: Based on [Fixedsys Excelsior](https://github.com/kika/fixedsys), Follow up on the latest version of Unicode and implement character supplementation projects.
     - **Status**: Not created. Name tentative.
-7. **Planhangul Project**: Based on Source Han Sans CN, creating Hangul in the form of CJK ideographs. Temporary  character range set to Hangul and Hangul Extension.
-    - **Status**: Not created. Name tentative.
-8. **Planfixibit Project**: Based on [Fixedsys Excelsior](https://github.com/kika/fixedsys), Follow up on the latest version of Unicode and implement character supplementation projects.
 > [!WARNING]
 >
 > 1. Strictly speaking, Planicon Project and Planfixibit Project does not meet the requirements for "The Planiverse", but still included for convenience.
