@@ -26,7 +26,7 @@ We have completed all CJK extension blocks other than Extension B. Also, Extensi
 > This font is currently uncompleted and still lacks large numbers of CJK ideographs.
 ## Contributors
 - Main: **[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**, [Usagixineist](https://github.com/Usagixineist), [Cod'dte](https://github.com/buwuzhengyedexiaoji), [StarShip Pama](https://github.com/StarShipPaMa)
-- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), [Xiuer](https://github.com/Steve-Yuu), [G4GE](https://github.com/Lastriverage)
+- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), [Xiuer](https://github.com/Steve-Yuu)
 - Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, Eiso Chan, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [KathrynCG](https://github.com/KathrynCG), [Siphercase](https://github.com/Siphercase), [Sierra](https://github.com/HighSierra0820), [Luke036](https://github.com/scott0107000)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.

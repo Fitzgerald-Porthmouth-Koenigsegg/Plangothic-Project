@@ -26,7 +26,7 @@
 > 该字体目前处于未完成阶段，仍然缺少大量汉字。
 ## 贡献者
 - 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[StarShip Pama](https://github.com/StarShipPaMa)
-- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、[G4GE](https://github.com/Lastriverage)
+- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、[Sierra](https://github.com/HighSierra0820)、[Luke036](https://github.com/scott0107000)
 
 还有不少其他曾经遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。

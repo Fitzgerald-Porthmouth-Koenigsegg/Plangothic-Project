@@ -26,7 +26,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 > このフォントは現在未完成の段階にあり、まだ大量の漢字が不足している。
 ## 主な開発メンバー
 - 制作コア：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[StarShip Pama](https://github.com/StarShipPaMa)
-- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、[G4GE](https://github.com/Lastriverage)
+- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、[Sierra](https://github.com/HighSierra0820)、[Luke036](https://github.com/scott0107000)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
