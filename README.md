@@ -30,7 +30,7 @@
 ※请注意：
 ~~本fork使用 [toWinFonts](https://github.com/GuiWonder/toWinFonts) 的 releases 里的 TTC合成程序 来将Plangothic Project（遍黑体项目）的两个字体合并成一个~~
 
-然后使用`FontCreator`软件对原`PlangothicP1-Regular.allideo.ttf`以及`PlangothicP2-Regular.ttf`文件进行多字重自动生成。
+使用`FontCreator`软件对原`PlangothicP1-Regular.fallback.ttf`以及`PlangothicP2-Regular.ttf`文件进行多字重自动生成。
 ### FontCreator-字形变换器-效果-加粗
 
 | 字重 | 加粗参数 |
