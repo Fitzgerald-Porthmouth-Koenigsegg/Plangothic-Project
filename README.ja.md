@@ -2,7 +2,7 @@
 
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/31.png)
 
-[中国語 / 中文](README.md) | [英語 / English](README.en.md)
+[簡體字中国語 / 简体中文](README.md) | [英語 / English](README.en.md) | [繁體字中國語 / 繁體中文](README.zh.hant.md)
 
 # プランゴシック・プロジェクト（Plangothic Project）
 [![视频介绍](https://img.shields.io/badge/ビデオ紹介-00a1d6?logo=Bilibili&logoColor=ffffff)](https://www.bilibili.com/video/BV1Dr4y1V7b7)
@@ -10,8 +10,7 @@
 [![总下载](https://img.shields.io/github/downloads/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/total.svg?color=critical&label=トータルダウンロード&logo=data:image/png;base64,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)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/releases/latest)
 [![星标](https://img.shields.io/github/stars/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project?label=トータル星&color=critical&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAdCAYAAAC5UQwxAAADKUlEQVRIib2WX0iTURTAz737tpWEissM6c9cOUUkCqmHpYEtfAiFyl4yCoQefOmhHozAECGweskMw+hRitRQsD8ULSl0H1mUIDRr5myVpgvJQvP7f+P7Nsfc9s3dMTpw4ePee87vnHvvOeeD/y2IEEKNFOYHMom8lGHedGKWVjcloDJu7QLxRz7exTtpdRlqmurlot+KAHAqutRKsu/YeaQABgIge/e30upTR2hY6K8FEzhADfE3q9DqU0Uo+uoaQFCpQU01UmXS2UJjg+7RjCI3EHBoQFUIABFhGO0lFcmaSDpC6cuZ01p0kZcQilL21TQmayfpCMkoGkIA5TEuKlqkLL/dVWG2ONe80xggH7iXj4XPdiz5rUicKgDBZ8OC36Y+EsDggGj/1HlZ+2KJectXhSnwEaN1Ckw2n8zs8JrzTn1ftZ2bbjeb5i42gwHKkLy0QVNWwBE2hiNGIlEixopTGFjtvg0Zf4kEb+W8C1e1CCVP2XXm1/t9kAGO1NI5gajwJWBJVqEXlXrrNfNMybtzYu6RXuCBTTMOgAOW5FYOqjCIfKVGe3+baDnaC8tphC4Dq+Q4Xcg+eGllatUBGgv72kRLbXdaoBrskAvbXc2R0zE3Zix80C5Zjgeh9I0kAlb1DNufN0cv6eahOFnXYFzoPgmMUk4FE9Gwkl39EO8cuBZvOWHiK2NZj7H053C4lK0lMgDBxpdot1CptzNhEmCymKnlYrKiWiNiwg6kC+R/9uWAqGCqvEQASAIszHYWUwOx4CkNVxwaIeBAwoSdGogEb6wSClUOtWvwoe/oI1cbszBeqmdX97yR4C2KcYcL1kcpt/4O4PUcE7h1VqudplBJDDmAhU9F9EDxY3EYKGiFmZWzK11SXlOLOftgsA1t67gvT9Q0GhYeaUcJ5tDfgOS36tkFNS3iDWUUhsgbIOQ1uGXPnhtcoGej3l5u/sk6yeNoJSPgJiNAyDtwc/MvcLy98Q3MdJSQIXArY9YubqbTrgeKHnzgbr78oeQ2eQVu8VtTVbw9cRNfnL58APFzmxnbzR7do0kg4lRjNWGwZNp65Wkq+ukTAPgHIIGzcZjmG+EAAAAASUVORK5CYII=
 )](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)
-[![License](https://img.shields.io/static/v1?label=ライセンス&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE.txt)
-[![QQ Group](https://img.shields.io/badge/QQ%20グループ-1135661191-critical?logo=tencentqq)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HvSdPx6z78suzTz51M3xGe-gENeaa1yc&authKey=eHjDZI54yDVbhyFjQqA2ImtV35LFy%2Fit8EuAzVDscVPcACE23L0hT314LiU9ey2%2F&noverify=0&group_code=1135661191)
+[![License](https://img.shields.io/static/v1?label=ライセンス&message=SIL%20Open%20Font%20License&color=critical&logo=creative%20commons)](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project/blob/main/LICENSE)
 </div>
 
 ## 概要
@@ -32,15 +31,25 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
 
 ## ライセンス
-当フォントは源ノ角ゴシックの派生フォントであり、SIL Open Font License のもとで提供されます。詳しくは[ライセンス](LICENSE.txt)をご覧ください。あなたは：
+本フォントはSIL Open Font License（SILオープンフォントライセンス）形式で公開されており、詳細は[ライセンス](LICENSE.txt)を参照。
 
-- 商用を含め無料で使用できます。その際、原作者への連絡や明記は必要はありません。
-- フォントを自由に共有し、任意のソフトウェアやデバイスにインストールできます。
-- さらに、改変または二次制作物を作成できます。ただし派生物に「Plangothic」「遍黑」の名称を再使用することはできません。また、派生物も SIL Open Font License を継承する必要があります。
+### あなたは：
+- いかなる個人、団体、組織及び企業は無料で商業目的と非商業目的の使用を行うことができ、費用を支払う必要がなく、事前に著者に知らせ、ソース情報を明記したり、著者の許可を得たりする必要がない。
+- フォントファイルを二次発行またはインストールし、任意のソフトウェアまたはデバイスに埋め込み、ソフトウェアまたはデバイスを再配布または販売することができます。
+- フォントファイルの修正、拡張、フォーマット変換を行いますが、二次修正された作品は**本フォントの保留名「Plangothic」、「遍黑」を使用することを厳禁し**、二次修正されたバージョンも**SIL Open Font Licenseで発表する必要があります**（ソースフォントのみをフォーマット変換する場合は、この保留名を使用し続けることができます）。
 
-個人、企業、団体などが本フォントを使用、複製、修正、配布したり、本フォントに対して SIL Open Font License の規定に該当する行為を行ったりした場合、使用、ダウンロード、またはライセンスの該当行為を行った当事者は、暗黙に SIL Open Font License のすべての規定に同意したものとみなされます。
+### あなたはできません：
+- フォントファイルの一部（字形、OpenType特性を含むがこれらに限定されない）を転売し、例えば、フォントファイルを単独で販売し、他のフォントと同梱して販売し、特殊な権限を有料で処理しなければフォントを使用できないなど。
+- フォントファイルの任意の部分を非SIL Open Font License発表します。
+- 本フォントファイルまたはその派生物を用いてコンピュータシステムの正常な進行を危害する行為（それには限定されない：フォントファイルにコンピュータウイルスを埋め込むこと、プログラムまたはシステムに存在する脆弱性を主観的に故意に利用してコンピュータシステムの正常な動作を乱すことなどを含むが、これらに限定されない）を行う。
+- このフォントは、ローカル法規制に違反する用途として使用されます。
+- 上記に記載されていないその他のSIL Open Font License違反行為。
 
-いかなる個人、企業、団体なども当フォントを有償で販売（フォント単体での販売、他のフォントとの抱き合わせ販売、フォントの使用に対する対価の要求等を含むが、これに限らない）してはなりません。あなたがこのフォントを有償で入手した場合、直ちに通報のうえ、必要に応じて司法当局にご相談ください。
+### その他の必要な説明：
+- 個人、企業、団体などが本フォントを使用、複製、修正、配布したり、本フォントに対してSIL Open Font Licenseの規定に該当する行為を行ったりした場合、使用、ダウンロード、またはライセンスの該当行為を行った当事者は、暗黙にSIL Open Font Licenseのすべての規定に同意したものとみなされます。
+- このフォントは無料の商用フォントで、料金を払ってこのフォントを入手する必要がある行為はすべて詐欺行為であり、だまされないように注意してください。このフォントを有料で入手した場合は、必要に応じて司法機関に協力できるように、すぐに通報してください。
+- 著者はSIL Open Font Licenseによって享受された合法的な権利を使用したり、適時に行使しなかったり、十分に行使しなかったりしてはならず、その権利を放棄したとみなされてはならず、著者が将来その権利を行使することにも影響しない。
+- このフォントには、すべての政治活動とは関係なく、政治的意図、メタファー、目的は含まれていません。著者は、このフォントを使用することによる連帯の法的責任を負いません。
 
 ## よくある質問
 **Q1**：なぜ Plangothic のフォントファイルは 2 つあるのですか？
@@ -65,33 +74,19 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 **Q6**: なぜこのフォントに複雑なテキストレイアウト（**C**omplex **T**ext **L**ayout, CTL）がないのでしょうか？
 
-**A6**: 当プロジェクトは、[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)、あるいは[Unifont](https://unifoundry.com/unifont)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。CTL を用いてこれらの文字を組版すことは、このプロジェクトの対象外である、同様に、異体字セレクタ（**I**deographs **V**ariation **S**elector, IVS）も本プロジェクトの対象外です。ご関心のある方は、各自で派生フォントを作成することができます。
-
-## ご協力のお願い
-「蹞歩を積まざれば、以って千里に至るなし」。Plangothic は時間のかかる地道なプロジェクトであり、あなたからのご支援を心よりお待ちしております。皆様からのご寄付は、当プロジェクトの発展に大変役立ちます。ご寄付以外にも、誤ったグリフのチェックや、見た目の悪いグリフの改善提案など、様々な形で貢献することも可能です。
-
-寄付をする前に、以下の点にご注意ください。
-
-- 寄付の前には、アカウント名をよく確認してください（Alipay：Fitzgerald K.、WeChat：蔽芪茢·茇䓮·蓲䒤菥。ユーザー名を変更した際はすぐに修正します）。不正なアカウントにより被った損害について、当プロジェクトは責任を負いかねます。
-- 現在、ここが唯一の公式な寄付ページです。他のサイトで当プロジェクトへの寄付リンクを見かけた場合は、直ちに通報のうえ、必要に応じて司法当局にご相談ください。
-- 当プロジェクトへのご寄付は、私たちの理念に賛同し、そのような形で私たちの発展を支援することを同意したものとみなされます。寄付者様からのご意見は真剣に検討させていただきますが、どれほどの寄付であれ、寄付者個人の意思で当プロジェクトの目的や公益性を改変することはできません。
-- ご希望の方には、当プロジェクトにご協力いただいたお礼として、ご寄付いただいた時間と金額を明記したメッセージを残すことができます。
-- 寄付金は全て個別に記録され、当プロジェクトのサポート費用などに使用されます。個人的な使用はされません。
-- 上記の寄付方法は、中国大陸のユーザーにのみ適用されます。それ以外の場合は、[本リンク](https://paypal.me/fitzgeraldpk?country.x=C2&locale.x=zh_XC)を通じて直接ご寄付ください。なお、寄付の前にはアカウント名をよく確認してください（ユーザー名：@fitzgeraldpk、名前：于航。ユーザー名を変更した際はすぐに修正します）。不正なアカウントにより被った損害について、当プロジェクトは責任を負いかねます。
-![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
+**A6**: 当プロジェクトは、[Unifont](https://unifoundry.com/unifont)、あるいは[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。CTL を用いてこれらの文字を組版すことは、このプロジェクトの対象外である、同様に、異体字セレクタ（**I**deographs **V**ariation **S**elector, IVS）も本プロジェクトの対象外です。ご関心のある方は、各自で派生フォントを作成することができます。
 
 ## 連絡先
 - GitHub：https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - ツイッター：https://twitter.com/Fitzgerald_P_K_/
 - グリフウィキ：http://zhs.glyphwiki.org/wiki/User:fitzgerald
-- メール：374601620@qq.com、fitzgeraldkoenigsegg@gmail.com
-- QQ: 374601620
+- メール：374601620@qq.com（代替メール：fitzgeraldkoenigsegg@gmail.com）
 
 ## その他の説明
-1. Plangothic の制作には、誰でも参加することができます。しかし、地域別グリフ、字形デザイン、ソフトウェアの使用、Unicodeなどについて一定の知識があることが条件です。この点についての詳細は、QQ グループ[1135661191](https://jq.qq.com/?_wv=1027&k=xRTzFAfD)に参加してお問い合わせください。
-2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothic の発展は皆様のお力にかかっています。
-3. このプロジェクトのメンバーたちはプロのデザイナーではないため、構造が不格好であったり、追加した字に元と比べて違和感があったりするかもしれません。また、時間の制約のため、一部の文字の組み立てにぎこちなさが残っていることがありますが、「ないよりはまし」の精神でご了承ください。
-4. **このプロジェクトのメンバーたちは中国本土のユーザーで、このプロジェクトには Telegram、Discord などの海外ディスカッショングループはありません。海外ユーザーの皆様、ご迷惑をおかけして申し訳ありません！**
+1. いくつかの理由で、Telegram、Discordなどのディスカッショングループはありません。ご不便をおかけして申し訳ありません。
+2. 当プロジェクトは常に協力者を募集しています。ぜひ周りの方々にこのプロジェクトのことを広めてください。書体制作に詳しい方も大歓迎です。ぜひ現在のフォントを基によりよいフォントを作り上げましょう。上記の連絡先から作者にご連絡ください。Plangothicの発展は皆様のお力にかかっています。
+3. 本プロジェクトのメンバーは専門のフォントデザイナーではないので、フォントの字形構造が見栄えがしない可能性があり、補字は原版に比べて少し違和感があるかもしれません。また、メンバーの時間と精力には限りがあるため、プロジェクトには修繕する余裕がなく、一部の漢字の部品のつなぎ合わせはぎこちないため、フォント自体のデータの正確性と予想されるレンダリング効果があなたのデバイスで完全に再現できるかどうかを保証することはできません。著者は本フォントに対していかなる明示や暗示の保証をしません。また、あなたがこのフォントを使用したことによるいかなるクレーム、損害、または責任に帰すことができる責任も負いません。
+4. このフォントに含まれる中国大陸部の変形表現テキストの一部は、[Unicodeグラフファイル](https://www.unicode.org/charts/)に表示されているフォントに完全に準拠していません。気になる場合や納得できない場合は、このフォントを使用しないでください。
 5. 本プロジェクトは、主に以下のツールまたはオープンソースフォントプロジェクトの一部またはすべてを使用、ないし参考にしています：
     - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)。
     - 他の Noto フォント。
@@ -105,6 +100,8 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
     - [魏安（Andrew West、アンドリュー・ウェスト）](https://twitter.com/BabelStone)氏による[BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
+    - [Unicodeグラフファイル](https://www.unicode.org/charts/)。
+    - [Unihanデータベース](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
