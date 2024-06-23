@@ -52,35 +52,21 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 - This font does not contain any political intentions, metaphors, or purposes, and is not related to any political activities. The author shall not be liable for any joint legal liability arising from the use of this font.
 
 ## FAQ
-**Q1**: Why are there two font files for Plangothic?
-
-**A1**: Because the maximum number of glyphs a font can hold is limited (to 65535), while the total count of CJK ideographs is much greater than this value.
-
-**Q2**: What is the difference between *fallback* and *allideo* versions for P1?
-
-**A2**: The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be replaced by the Hanazono Mincho font. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
-
-**Q3**: Why P1 is divided into two types?
-
-**A3**: Because all characters in extensions G and H covered by P2, have been included, so there is no need to divide P2.
-
-**Q4**: Why does this project just include a small amount of CJK ideographs in the URO and extensions A?
-
-**A4**: Since the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN", needs of using CJK ideographs in the URO and Extension A blocks can be solved by directly using the Source Han Sans font. As for these CJK ideographs scattered in the URO and Extension A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs to the project, they have been compared with other mainstream fonts and glyphs in the Unicode.
-
-**Q5**: Will there be a version containing other weights (or other local glyphs) in the future?
-
-**A5**: Since the quantities of this project are too large, so this request is not in our reach by now. If you have such ideas, you can make a derivative font version of the project with your requirements.
-
-**Q6**: Why is there no Complex Text Layout (CTL) and/or Ideographs Variation Selectors (IVSs) in this font?
-
-**A6**: The fonts of this project orientate themselves as pragmatic tool fonts, that is they are not responsible for precise typesetting but only for display (see [Unifont](https://unifoundry.com/unifont) and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)). Using CTL to typeset and display these scripts, and displaying regional variation ideographs other than the CN variant using IVSs is OUTSIDE the coverage of the project. If you have such ideas, you can produce derivation fonts of this project by yourself if in need.
-
-**Q7**: Can the TTC font from this project (i.e., a collection of multiple TrueType fonts) be directly used on smartphones or within software? Can it be installed on a phone to display all font styles simultaneously? Are there compatibility issues across software platforms or is it limited to specific platforms?
-
-**A7**: The TTC font from this project is compatible with Windows platforms and works seamlessly there. However, on mobile devices, directly installing a TTC font file typically results in displaying only one font style (usually P1) due to technical constraints. To display all font styles within software applications, special configurations may be required. Compatibility with TTC fonts can vary across different platforms, often requiring additional steps. Detailed instructions for installing Plangothic on an Android phone are provided here.
-<details>
-<summary>Detailed instructions for installing Plangothic on a mobile phone</summary>
+### 1. Why are there two font files for Plangothic?
+- Because the maximum number of glyphs a font can hold is limited (to 65535), while the total count of CJK ideographs is much greater than this value.
+### 2. What is the difference between *fallback* and *allideo* versions for P1?
+- The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be replaced by the Hanazono Mincho font. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
+### 3. Why P1 is divided into two types?
+- Because all characters in extensions G and H covered by P2, have been included, so there is no need to divide P2.
+### 4. Why does this project just include a small amount of CJK ideographs in the URO and extensions A?
+- Since the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN", needs of using CJK ideographs in the URO and Extension A blocks can be solved by directly using the Source Han Sans font. As for these CJK ideographs scattered in the URO and Extension A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs to the project, they have been compared with other mainstream fonts and glyphs in the Unicode.
+### 5. Will there be a version containing other weights (or other local glyphs) in the future?
+- Since the quantities of this project are too large, so this request is not in our reach by now. If you have such ideas, you can make a derivative font version of the project with your requirements.
+### 6. Why is there no ℂomplex 𝕋ext 𝕃ayout (CTL) and 𝕀deographs 𝕍ariation 𝕊electors (IVS) in this font?
+- The fonts of this project orientate themselves as pragmatic tool fonts, that is they are not responsible for precise typesetting but only for display (see [Unifont](https://unifoundry.com/unifont) and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)). Using CTL to typeset and display these scripts, and displaying regional variation ideographs other than the CN variant using IVSs is OUTSIDE the coverage of the project. If you have such ideas, you can produce derivation fonts of this project by yourself if in need.
+### 7. Can the TTC font from this project (a collection of multiple TrueType fonts) be directly used on smartphones or within software? Can it be installed on a phone to display all font styles simultaneously? Are there compatibility issues across software platforms or is it limited to specific platforms?
+- The TTC font from this project is compatible with Windows platforms and works seamlessly there. However, on mobile devices, directly installing a TTC font file typically results in displaying only one font style (usually P1) due to technical constraints. To display all font styles within software applications, special configurations may be required. Compatibility with TTC fonts can vary across different platforms, often requiring additional steps. Detailed instructions for installing Plangothic on an Android phone are provided here.
+#### P.S.: Method for installing the Plangothic on the phone:
 
 To install the Plangothic TTC font on an Android phone, follow these steps:
 1. Backup the `/system/etc/fonts.xml` and `/system/etc/font_fallback.xml` files of your current phone system (if available).
@@ -95,7 +81,7 @@ To install the Plangothic TTC font on an Android phone, follow these steps:
 ```
 After completing these steps, restart your phone to apply the changes. If you encounter issues, verify that the font files have been correctly updated and ensure that your device permissions allow modifications to system files.
 
-</details>
+Please note that the above methods are **NOT applicable** to Apple phone users and cannot provide installation methods for Apple phone users. We apologize for any inconvenience caused.
 
 ## Contact
 If you have any questions or suggestions during the use of this font, please feel free to provide feedback. You can submit an issue in the project (unrelated content is strictly prohibited), or you can provide feedback through the following contact information:
