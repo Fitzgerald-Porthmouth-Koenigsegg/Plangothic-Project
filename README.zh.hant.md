@@ -78,6 +78,27 @@
 
 **A6**：因為本項目的字體使用性質側重於工具字體、亦即不負責排版僅負責顯示（類似於[Unifont](https://unifoundry.com/unifont)和[綿雲飴里](https://github.com/MY1L)所開發的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)），使用複雜文種處理準確地排版這些語言文字，或是使用異體字選擇器顯示其它地區字形的功能**並不在**本項目的涵蓋範圍內。若您有類似想法，可自行製作有關於您需求的該項目的衍生字體版本。
 
+**Q7**：這個本專案的TTC字體（即多個TrueType字體的合併）是否可以直接用於手機或在軟件中使用？即是否可以直接安裝在手機上並顯示所有字形？遇到的問題是否適用於所有軟件平台，或者只限於特定平台？
+
+**A7**：本專案的TTC字體適用於Windows平台，可以正常使用。由於其他原因，對於手機設備直接安裝TTC字體文件只能顯示其中的一個字形（通常是P1），無法同時顯示所有字形。在軟件中使用時，可能需要特別設置才能顯示TTC字體中的所有字形。不同平台對TTC字體的兼容性可能有所不同，大多數情況下需要額外的步驟。這裡提供了遍黑體安裝至手機的詳細信息。
+<details>
+<summary>遍黑體安裝至手機詳細信息</summary>
+
+要將TTC字體安裝至Android手機，請遵循以下步驟：
+1. 備份當前手機系統的 `/system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件。
+2. 打開 `system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件。
+3. 在文件的 `<family lang="ko">` 標籤後，找到相應的 `</family>` 標籤後換行。
+4. 添加以下 XML 代碼，確保正確縮進：
+``` xml
+    <family>
+        <font weight="400" style="normal" index="0">Plangothic.ttc</font>
+        <font weight="400" style="normal" index="1">Plangothic.ttc</font>
+    </family>
+```
+完成這些步驟後，重新啟動手機以使更改生效。如果仍然遇到問題，請檢查是否正確更新了字體文件，並確保設備權限允許修改系統文件。
+
+</details>
+
 ## 支持我們
 「不積跬步，無以至千里。」遍黑體項目製作難度大，製作時間長，若願意支持我們，在此致以誠摯感謝！您的捐助可以幫助遍黑體項目以更好發展。您還可以通過其他方式做出貢獻，如幫助檢查錯誤字形，對不美觀字形提出改進意見等。
 

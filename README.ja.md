@@ -76,6 +76,27 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 
 **A6**: 当プロジェクトは、[Unifont](https://unifoundry.com/unifont)、あるいは[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。CTL を用いてこれらの文字を組版すことは、このプロジェクトの対象外である、同様に、異体字セレクタ（**I**deographs **V**ariation **S**elector, IVS）も本プロジェクトの対象外です。ご関心のある方は、各自で派生フォントを作成することができます。
 
+**Q7**: このプロジェクトで使用されているTTCフォント（複数のTrueTypeフォントの集合体）は、スマートフォンやソフトウェアで直接使用することができますか？ すべてのフォントスタイルを一度に表示するために、電話にインストールすることはできますか？ ソフトウェアプラットフォーム間で互換性の問題がありますか、それとも特定のプラットフォームに限定されていますか？
+
+**A7**: このプロジェクトのTTCフォントはWindowsプラットフォームと互換性があり、そこでシームレスに動作します。ただし、モバイルデバイスでは、通常の方法でTTCフォントファイルを直接インストールすると、テクニカルの制約により通常P1のフォントスタイルのみが表示されることがあります。ソフトウェアアプリケーション内ですべてのフォントスタイルを表示するには、特別な構成が必要な場合があります。TTCフォントとの互換性は、さまざまなプラットフォームで異なる場合があり、追加の手順が必要なことがよくあります。Android電話にPlangothicをインストールする詳細な手順がこちらで提供されています。
+<details>
+<summary>モバイル電話にPlangothicをインストールする詳細な手順</summary>
+
+Android フォンに Plangothic TTC フォントをインストールする手順：
+1. 現在の電話システムの `/system/etc/fonts.xml` と `/system/etc/font_fallback.xml` ファイルをバックアップします（有であれば）。
+2. `system/etc/fonts.xml` と `/system/etc/font_fallback.xml` ファイルを開きます。
+3. `</family>` の終了タグ `<family lang="ko">`, の直後に新しい行を挿入します。
+4. 次のXMLコードスニペットを適切なインデントで追加してください：
+``` xml
+    <family>
+        <font weight="400" style="normal" index="0">Plangothic.ttc</font>
+        <font weight="400" style="normal" index="1">Plangothic.ttc</font>
+    </family>
+```
+これらのステップを完了したら、電話を再起動して変更を適用します。問題が発生した場合、フォントファイルが正しく更新されていることを確認し、デバイスの権限がシステムファイルの変更を許可していることを確認してください。
+
+</details>
+
 ## 連絡先
 - GitHub：https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - ツイッター：https://twitter.com/Fitzgerald_P_K_/

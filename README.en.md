@@ -76,6 +76,27 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 
 **A6**: The fonts of this project orientate themselves as pragmatic tool fonts, that is they are not responsible for precise typesetting but only for display (see [Unifont](https://unifoundry.com/unifont) and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)). Using CTL to typeset and display these scripts, and displaying regional variation ideographs other than the CN variant using IVSs is OUTSIDE the coverage of the project. If you have such ideas, you can produce derivation fonts of this project by yourself if in need.
 
+**Q7**: Can the TTC font from this project (i.e., a collection of multiple TrueType fonts) be directly used on smartphones or within software? Can it be installed on a phone to display all font styles simultaneously? Are there compatibility issues across software platforms or is it limited to specific platforms?
+
+**A7**: The TTC font from this project is compatible with Windows platforms and works seamlessly there. However, on mobile devices, directly installing a TTC font file typically results in displaying only one font style (usually P1) due to technical constraints. To display all font styles within software applications, special configurations may be required. Compatibility with TTC fonts can vary across different platforms, often requiring additional steps. Detailed instructions for installing Plangothic on an Android phone are provided here.
+<details>
+<summary>Detailed instructions for installing Plangothic on a mobile phone</summary>
+
+To install the Plangothic TTC font on an Android phone, follow these steps:
+1. Backup the `/system/etc/fonts.xml` and `/system/etc/font_fallback.xml` files of your current phone system (if available).
+2. Open the `system/etc/fonts.xml` and `/system/etc/font_fallback.xml` files.
+3. After the closing `</family>` tag of `<family lang="ko">`, insert a new line.
+4. Add the following XML code snippet with correct indentation:
+``` xml
+    <family>
+        <font weight="400" style="normal" index="0">Plangothic.ttc</font>
+        <font weight="400" style="normal" index="1">Plangothic.ttc</font>
+    </family>
+```
+After completing these steps, restart your phone to apply the changes. If you encounter issues, verify that the font files have been correctly updated and ensure that your device permissions allow modifications to system files.
+
+</details>
+
 ## Contact
 If you have any questions or suggestions during the use of this font, please feel free to provide feedback. You can submit an issue in the project (unrelated content is strictly prohibited), or you can provide feedback through the following contact information:
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
