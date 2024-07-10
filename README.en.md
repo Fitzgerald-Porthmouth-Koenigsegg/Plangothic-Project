@@ -66,6 +66,15 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 - The fonts of this project orientate themselves as pragmatic tool fonts, that is they are not responsible for precise typesetting but only for display (see [Unifont](https://unifoundry.com/unifont) and [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)). Using CTL to typeset and display these scripts, and displaying regional variation ideographs other than the CN variant using IVSs is OUTSIDE the coverage of the project. If you have such ideas, you can produce derivation fonts of this project by yourself if in need.
 ### 7. Can the TTC font from this project (a collection of multiple TrueType fonts) be directly used on smartphones or within software? Can it be installed on a phone to display all font styles simultaneously? Are there compatibility issues across software platforms or is it limited to specific platforms?
 - The TTC font from this project is compatible with Windows platforms and works seamlessly there. However, on mobile devices, directly installing a TTC font file typically results in displaying only one font style (usually P1) due to technical constraints. To display all font styles within software applications, special configurations may be required. Compatibility with TTC fonts can vary across different platforms, often requiring additional steps. Detailed instructions for installing Plangothic on an Android phone are provided here.
+
+#### P.S.: How to install Plangothic font on the Windows platform and set it as the global fallback font:
+
+1. Download the TTF version of the font file (choose either two separate ttf files or a single ttc file).
+2. In File Explorer, select the font file, then**click right mouse button→"Install for all users"(requires administrator privileges, Windows 11 users also need to click "Show more options")**to install the font file.
+3. Download the registry file `reg/Plangothic-Install.reg`, double-click to run it (requires administrator privileges), and if a security warning appears, click "Run".
+4. Log out and log back in to the Windows system account for the settings to take effect.
+5. To delete the font, simply delete the font file itself, and there is no need to change the registry settings. If you want to delete the registry content, download the file `reg/Plangothic-Uninstall.reg`and double-click to run it.
+
 #### P.S.: Method for installing the Plangothic on the phone:
 
 To install the Plangothic TTC font on an Android phone, follow these steps:

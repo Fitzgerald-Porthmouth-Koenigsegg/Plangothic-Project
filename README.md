@@ -68,12 +68,21 @@
 - 因为本项目的字体使用性质侧重于工具字体、亦即不负责排版仅负责显示（类似于[Unifont](https://unifoundry.com/unifont)和[绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)），使用复杂文种处理准确地排版这些语言文字，或是使用异体字选择器显示其它地区字形的功能**并不在**本项目的涵盖范围内。若您有类似的想法，可自行制作满足您需求的衍生字体。
 ### 7. 本项目的TTC字体（即多个TrueType字体的合并）是否可以直接用于手机或在软件中使用？即是否可以直接安装在手机上并显示所有字形？遇到的问题是否适用于所有软件平台，或者只限于特定平台？
 - 本项目的TTC字体适用于Windows平台，可以正常使用。因为其他原因，对于手机设备直接安装TTC字体文件只能显示其中的一个字形（通常是P1），无法同时显示所有字形。在软件中使用时，可能需要特殊设置才能显示TTC字体中的所有字形。不同平台对TTC字体的兼容性可能有所不同，但大多数情况需要额外步骤。
+
+#### 附：将遍黑体安装至Windows平台并全局Fallback的方法：
+
+1. 下载TTF版字体文件（两个单独的ttf或者单个的ttc文件任选其一）；
+2. 在资源管理器上选择字体文件，然后点击**鼠标右键→“为所有用户安装”（需要管理员权限，Win11用户还需要点击“显示更多选项”）**，安装字体文件；
+3. 下载注册表文件`reg/Plangothic-Install.reg`，双击运行（需要管理员权限），若出现安全警告请点击“运行”；
+4. 注销并重新登录Windows系统账户，设置即可生效；
+5. 若要删除字体，则仅需删除字体本体即可，注册表设置无需变动。如果要删注册表内容，下载文件`reg/Plangothic-Uninstall.reg`，双击运行即可。
+
 #### 附：将遍黑体安装至手机的方法：
 
 要将TTC字体安装至Android手机，请遵循以下步骤：
-1. 备份当前手机系统的 `/system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件。
-2. 打开 `system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件。
-3. 在文件的 `<family lang="ko">` 标签后，找到闭合标签 `</family>` 后回车。
+1. 备份当前手机系统的 `/system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件；
+2. 打开 `system/etc/fonts.xml` 和 `/system/etc/font_fallback.xml` （如果有）文件；
+3. 在文件的 `<family lang="ko">` 标签后，找到闭合标签 `</family>` 后回车；
 4. 添加以下 XML 代码，确保正确缩进：
 ``` xml
     <family>
