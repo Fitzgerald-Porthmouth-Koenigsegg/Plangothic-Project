@@ -70,7 +70,7 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 #### P.S.: How to install Plangothic font on the Windows platform and set it as the global fallback font:
 
 1. Download the TTF version of the font file (choose either two separate ttf files or a single ttc file).
-2. In File Explorer, select the font file, then**click right mouse button→"Install for all users"(requires administrator privileges, Windows 11 users also need to click "Show more options")**to install the font file.
+2. In File Explorer, select the font file, then **click right mouse button→"Install for all users"(requires administrator privileges, Windows 11 users also need to click "Show more options")** to install the font file.
 3. Download the registry file `reg/Plangothic-Install.reg`, double-click to run it (requires administrator privileges), and if a security warning appears, click "Run".
 4. Log out and log back in to the Windows system account for the settings to take effect.
 5. To delete the font, simply delete the font file itself, and there is no need to change the registry settings. If you want to delete the registry content, download the file `reg/Plangothic-Uninstall.reg`and double-click to run it.
