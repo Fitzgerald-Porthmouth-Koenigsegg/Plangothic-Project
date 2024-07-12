@@ -33,7 +33,7 @@
 ## 字體授權
 本字體以[SIL Open Font License（SIL開放字體協議）](https://openfontlicense.org/open-font-license-official-text/)授權形式發佈，詳見[授權文件](LICENSE)。
 
-授權協議的簡體中文版參考（非官方譯本）：https://www.maoken.com/ofl。
+授權協議的簡體中文版參考（非官方譯本）：https://www.maoken.com/ofl 。
 
 ### 您可以：
 - 任何個人、團體、組織及企業可免費進行商業目的和非商業目的使用，無需支付費用、事先告知作者、標明來源訊息或征得作者許可。
