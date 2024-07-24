@@ -87,7 +87,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
         <font weight="400" style="normal" index="0">Plangothic.ttc</font>
         <font weight="400" style="normal" index="1">Plangothic.ttc</font>
     </family>
-```
+``` 
 これらのステップを完了したら、電話を再起動して変更を適用します。問題が発生した場合、フォントファイルが正しく更新されていることを確認し、デバイスの権限がシステムファイルの変更を許可していることを確認してください。
 
 また、上記の方法はアップル携帯電話のユーザーには**適用されず**、アップル携帯電話のユーザーに対するインストール方法も提供できないことに注意してください、ご了承ください。
@@ -121,7 +121,8 @@ Android フォンに Plangothic TTC フォントをインストールする手�
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
-![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
+
 > [!IMPORTANT]
 >  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I までの文字しか含まれていません。
 >  - オンラインの SVG ファイルは、このプロジェクトの更新と完全に同期しているわけではないので、適宜ご利用ください。

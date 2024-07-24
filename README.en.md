@@ -87,7 +87,7 @@ To install the Plangothic TTC font on an Android phone, follow these steps:
         <font weight="400" style="normal" index="0">Plangothic.ttc</font>
         <font weight="400" style="normal" index="1">Plangothic.ttc</font>
     </family>
-```
+``` 
 After completing these steps, restart your phone to apply the changes. If you encounter issues, verify that the font files have been correctly updated and ensure that your device permissions allow modifications to system files.
 
 Please note that the above methods are **NOT applicable** to Apple phone users and cannot provide installation methods for Apple phone users. We apologize for any inconvenience caused.
@@ -122,7 +122,7 @@ If you have any questions or suggestions during the use of this font, please fee
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
-![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
 
 > [!IMPORTANT]
 >  - The online SVG files only include CJK Unified Ideographs Extension blocks B to Extension I.

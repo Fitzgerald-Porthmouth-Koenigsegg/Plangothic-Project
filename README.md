@@ -89,7 +89,7 @@
         <font weight="400" style="normal" index="0">Plangothic.ttc</font>
         <font weight="400" style="normal" index="1">Plangothic.ttc</font>
     </family>
-```
+``` 
 在完成这些步骤后，重新启动手机以使更改生效。如果仍然遇到问题，请检查是否正确更新了字体文件，并确保设备权限允许修改系统文件。
 
 另请注意，以上方法**不适用**于苹果手机的用户，亦无法提供针对苹果手机用户的安装至手机的方法，敬请谅解。
@@ -103,7 +103,7 @@
 - 您向本项目捐助，即默认表明您赞同我们的理念，并愿意以此种方式支持我们的发展。捐助者提出的意见会被认真考虑，但捐款再多也没有权利以个人意志改变本项目的宗旨和公益性质。
 - 捐助后如愿意，可留言写明您的捐款时间和金额，感谢您对本项目的支持。
 - 所有捐助资金均会逐一记录，并将全部用于该项目的技术支持等开销，不会被私用。
-![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.jpg)
+![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.svg)
 
 ## 联系方式
 您在使用本字体的过程中如有任何问题和建议，欢迎反馈。您可在项目中提交issue（严禁提交无关内容），也可以通过下列联系方式进行反馈：
@@ -136,7 +136,8 @@
 6. 该项目的字形资料由 [Hulenkius](https://github.com/Hulenkius) 通过 SVG 文件进行线上使用，使用者可以通过「<https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg>」链接获取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
-![](https://seeki.vistudium.top/SVG/2ebf0.svg)
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
+
 > [!IMPORTANT]
 > - 线上的 SVG 文件仅包含中日韩统一表意文字扩展 B 区至中日韩统一表意文字扩展 I 区。
 > - 线上的 SVG 文件不和本项目的更新完全同步，请酌情使用。
