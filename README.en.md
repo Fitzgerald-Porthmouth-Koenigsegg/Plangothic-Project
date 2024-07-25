@@ -122,7 +122,7 @@ If you have any questions or suggestions during the use of this font, please fee
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:
-<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
 > [!IMPORTANT]
 >  - The online SVG files only include CJK Unified Ideographs Extension blocks B to Extension I.

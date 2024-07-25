@@ -121,7 +121,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
-<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
 > [!IMPORTANT]
 >  - オンラインの SVG ファイルには、CJK 統合漢字拡張 B 領域から CJK 統合漢字拡張 I までの文字しか含まれていません。

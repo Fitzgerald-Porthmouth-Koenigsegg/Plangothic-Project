@@ -136,7 +136,7 @@
 6. 該項目的字形資料由[Hulenkius](https://github.com/Hulenkius)通過SVG檔案進行線上使用，使用者可以通過「<https://seeki.vistudium.top/SVG/{小寫的漢字十六進制碼位}.svg>」鏈接獲取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的顯示結果將會是：
-<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="50%"/></div>
+<div align="center"><img src="https://seeki.vistudium.top/SVG/2ebf0.svg" width="20%"/></div>
 
 > [!IMPORTANT]
 > - 線上的SVG檔案僅包含中日韓統一表意文字擴展B區至中日韓統一表意文字擴展I區。
