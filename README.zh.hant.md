@@ -26,7 +26,7 @@
 ## 貢獻者
 - 主製作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
 - 聯合製作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)
-- 其他技術協助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)、[Sierra](https://github.com/HighSierra0820)、[Luke036](https://github.com/scott0107000)
+- 其他技術協助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、Eiso Chan、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[KathrynCG](https://github.com/KathrynCG)、[Siphercase](https://github.com/Siphercase)
 
 還有不少其他曾經向遍黑體項目給予支持、參與製作的人員，也在此對他們表示感謝。
 
