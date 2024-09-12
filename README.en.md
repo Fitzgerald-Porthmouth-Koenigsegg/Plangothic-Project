@@ -44,7 +44,7 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 - Use this font for purposes that violate local laws and regulations.
 - Other behaviors that violate the SIL Open Font License that are not listed above.
 
-### Other necessary instructions:
+### Attention:
 - Any individual, enterprise, team, etc. who uses, copies, modifies, distributes this font or conducts any behavior conforming to the provisions of the SIL Open Font License, and the recipient who uses, downloads, or exercises the rights specified in the contract, shall be deemed to have agreed to comply with all the provisions of the SIL Open Font License by default.
 - This font is a free commercial font. **Any behavior that requires payment to obtain this font is considered fraudulent. Beware of being deceived**. If you obtained this font for payment, please report it immediately and assist relevant judicial authorities if necessary.
 - The author's failure to exercise, timely exercise, or fully exercise the legitimate rights enjoyed by the SIL Open Font License shall not be deemed as a waiver of such rights, nor shall it affect the author's future exercise of such rights.
@@ -102,7 +102,7 @@ If you have any questions or suggestions during the use of this font, please fee
 1. Due to certain reasons, we DO NOT have any discussion groups (Telegram, Discord, etc.), and we deeply apologize for any inconvenience caused to you.
 2. This is a long-term project. We would be grateful if you could promote the project to others. We also welcome technical personnels in font production and accept you to continue to improve this project. You can contact the author through said information. The development of this project is inseparable from your publicity and encouragement.
 3. The members of this project are not professional font designers, so the font structure may not be aesthetically pleasing, and the added text may have a slight inconsistency compared to the original version. In addition, due to the limited time and energy of the members, there is no extra time for the project to refine. Some parts of the Chinese characters will be assembled very rigidly. Therefore, we cannot guarantee the accuracy of the font data and whether the expected presentation effect can be perfectly reproduced on your device. The author makes no express or implied warranties about this font, nor assumes any responsibility for any claims, damages, or attributable reasons arising from your use of this font.
-4. Some of the Chinese Mainland variant ideographs included in this font DO NOT fully follow the fonts displayed in the [Unicode charts file](https://www.unicode.org/charts/). If you mind or cannot accept, please do not use this font.
+4. Some of the Chinese Mainland glyphs included in this font **DO NOT** fully follow the fonts displayed in the [Unicode charts file](https://www.unicode.org/charts/). If you mind or cannot accept, please do not use this font.
 5. This project borrows and/or refers to other tools and/or open-source font projects in part or whole, mainly including:
     - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。
     - Other fonts in the Noto series.
