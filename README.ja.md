@@ -16,8 +16,7 @@
 Plangothic Project（プランゴシックプロジェクト、中国語：遍黒體項目、遍黑体项目）は、[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)の中国大陸版をベースに、CJK 統合漢字拡張ブロックを補完するゴシック体フォントの作成を目指すプロジェクトです。2020 年 6 月頃より開発されています。
 
 ## 収録範囲
-
-当フォントは現在、CJK 統合漢字拡張 B を除く全範囲をサポートしていますが、拡張 C・D・E・F・I は確認が不十分で、CJK 統合漢字外のブロックは部分的にのみ実装されています。
+本フォントは主に拡張漢字B区から拡張漢字J区までのすべてを支援し、その他のブロックには散発的な文字がある。
 
 > [!WARNING]
 >
@@ -25,7 +24,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 ## 主な開発メンバー
 - 制作コア：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
 - 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、Humework
-- 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)
+- 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)、[Losketch](https://github.com/Losketch)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
 
@@ -53,10 +52,10 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 ## よくある質問
 ### 1. なぜ Plangothic のフォントファイルは 2 つあるのですか？
 - 1 フォントファイルあたりの最大グリフ数は 65535 に制限されていますが、CJK 統合漢字の数はこれよりはるかに多いからです。
-### 2. P1 の fallback 版と allideo 版の違いは何ですか？
-- Fallback 版は、すべての CJK 統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo 版は、すべての CJK 統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で置き換えたものです。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべての CJK 統合漢字を完全に上書きした場合、fallback 版はなくなります。
-### 3. なぜ P1 だけが 2 種類に分かれているのですか？
-- P2 に含まれる拡張 G と拡張 H の漢字は全て制作済みなので、区分する必要がないからです。
+### 2. P1のfallback版とallideo版の違いは何ですか？
+- fallback版は、すべてのCJK統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo版は、すべてのCJK統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を[落尘無襯](https://github.com/Losketch/LorchinSans)で補足される。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべてのCJK統合漢字を完全に上書きした場合、fallback版はなくなります。
+### 3. なぜP1だけが2種類に分かれているのですか？
+- P2に含まれる拡張G、拡張H、拡張Jの漢字は全て制作済みなので、区分する必要がないからです。
 ### 4. なぜこのプロジェクトには URO（基本ブロック）と拡張 A の漢字が少量含まれているのですか？
 - 本プロジェクトの趣旨は「[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)ベースの補完」であるため、URO と拡張 A の CJK 漢字を表示したい場合は、そのまま源ノ角ゴシックを使用できます。本プロジェクトに含まれるまばらな URO と拡張 A の文字は、いずれも Unicode でグリフ変更があったり、本プロジェクトの趣旨に合わない文字です。これらの漢字を追加する前には、他の主なフォントや Unicode コード表のグリフと比較しています。
 ### 5. 将来、他のウェイト（または他地域のグリフ）を追加する予定はありますか？
@@ -117,6 +116,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicodeグラフファイル](https://www.unicode.org/charts/)。
     - [Unihanデータベース](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Losketch](https://github.com/Losketch)氏による[落尘無襯](https://github.com/Losketch/LorchinSans)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：

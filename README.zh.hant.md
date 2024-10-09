@@ -14,10 +14,10 @@
 </div>
 
 ## 概述
-遍黑體項目是基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)，並以中國大陸字形為標準的對中日韓越統一表意文字擴展區進行字形補充的項目，是「遍宇宙家族」中的一個子項目，該項目於2020年6月前後啟動。
+遍黑體項目是基於[思源黑體](https://github.com/adobe-fonts/source-han-sans)，並以中國大陸字形為標準的對中日韓統一表意文字擴展區進行字形補充的項目，是「遍宇宙家族」中的一個子項目，該項目於2020年6月前後啟動。
 
 ## 收錄範圍
-本字體現已支援除擴展B區以外全部位於擴展區的CJK統一漢字，擴展C、D、E、F、I區尚未進行精修，其他非漢字區塊散有字形。
+本字體主要支援擴展B區至擴展J區的全部漢字，其他區塊有零星的字元。
 
 > [!WARNING]
 >
@@ -25,7 +25,7 @@
 ## 貢獻者
 - 主製作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
 - 聯合製作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、Humework
-- 其他技術協助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)
+- 其他技術協助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)、[Losketch](https://github.com/Losketch)
 
 還有不少其他曾經向遍黑體項目給予支持、參與製作的人員，也在此對他們表示感謝。
 
@@ -56,9 +56,9 @@
 ### 1. 為什麼遍黑體是兩個字體檔案？
 - 因為一個字體所能容納的字形數量有限（65535個），而表意文字的總數量遠大於這個值。
 ### 2. P1名稱中的fallback和allideo有什麼區別？
-- fallback檔案適用於現時已安裝的字體**能顯示**全部漢字的用戶，其中還沒有製作黑體的漢字部分將空而不書。allideo檔案適用於現時已安裝的字體**不能顯示**全部漢字的用戶，其中還沒有製作黑體的漢字部分將使用花園明朝（Hanazono Mincho）取代之。兩個字體檔案均可以瞭解到現時遍黑體的製作進度如何，當本項目已經完全覆蓋所有漢字的時候，fallback檔案將會消失。
+- fallback檔案適用於現時已安裝的字體**能顯示**全部漢字的用戶，其中還沒有製作黑體的漢字部分將空而不書。allideo檔案適用於現時已安裝的字體**不能顯示**全部漢字的用戶，其中還沒有製作黑體的漢字部分將使用[落尘無襯](https://github.com/Losketch/LorchinSans)补充之。兩個字體檔案均可以瞭解到現時遍黑體的製作進度如何，當本項目已經完全覆蓋所有漢字的時候，fallback檔案將會消失。
 ### 3. 為什麼只有P1的字體檔案是兩個類別？
-- 因為P2所涵蓋的擴展G區、擴展H區的表意文字均已全部製作完畢，毋須再進行劃分。
+- 因為P2所涵蓋的擴展G區、擴展H區、擴展J區的表意文字均已全部製作完畢，毋須再進行劃分。
 ### 4. 為什麼這個項目僅包含少量基本區和擴展A區的漢字？
 - 因為本項目的宗旨是「基于[思源黑體](https://github.com/adobe-fonts/source-han-sans)進行的補充」，如需顯示基本區和擴展A區的表意文字，直接使用思源黑體即可。本項目中所包含的零星的基本區和擴展A區的表意文字均為在Unicode內**有字形改動或者不符合本項目宗旨**的表意文字。本項目在添加這些表意文字之前均已與其他主流字體和Unicode碼表內字形進行過比對。
 ### 5. 未來是否會做包含其他字重（或其他地區字形）的版本？
@@ -124,14 +124,15 @@
     - [すきまゴシック（Sukima Gothic、隙間黑體）](https://oppekebekkanko.booth.pm/items/2117070)。
     - [綿雲飴里](https://github.com/MY1L)所開發的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
     - [昭源黑體](https://github.com/chiron-fonts/chiron-hei-hk)。
-    - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
+    - [奈白不弍](https://github.com/Buernia)所開發的[煮豆黑體](https://github.com/Buernia/Zhudou-Sans)。
     - [秋空黑體](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
     - [Nôm Na Tống（喃那宋）](https://github.com/nomfoundation/font)。
-    - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的 [BabelStone Han（巴別宋）](https://www.babelstone.co.uk/Fonts/index.html)。
-    - [白易](https://github.com/yi-bai)所开发的[字統網](https://zi.tools)。
+    - [魏安（Andrew West）](https://twitter.com/BabelStone)所開發的[BabelStone Han（巴別宋）](https://www.babelstone.co.uk/Fonts/index.html)。
+    - [白易](https://github.com/yi-bai)所開發的[字統網](https://zi.tools)。
     - [Gothic Nguyen（阮黑體）](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicode官方碼表文件](https://www.unicode.org/charts/)。
     - [Unihan數據庫](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Losketch](https://github.com/Losketch)所開發的[落尘無襯](https://github.com/Losketch/LorchinSans)。
 6. 該項目的字形資料由[Hulenkius](https://github.com/Hulenkius)通過SVG檔案進行線上使用，使用者可以通過「<https://seeki.vistudium.top/SVG/{小寫的漢字十六進制碼位}.svg>」鏈接獲取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的顯示結果將會是：

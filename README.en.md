@@ -16,8 +16,7 @@
 Plangothic Project (Chinese: 遍黑体项目) is based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN and takes the Chinese Mainland variant ideographs as the standard to supplement the CJK Unified Ideographs Extension blocks. Initiated around June 2020.
 
 ## Coverage
-
-We have completed all CJK extension blocks other than Extension B. Also, Extension C, D, E, F and Extension I require further refinement. Other non-CJK ideographs are partly available.
+This font mainly supports all CJK ideographs from extension B to extension J, with sporadic character in other blocks.
 
 > [!WARNING]
 >
@@ -25,7 +24,7 @@ We have completed all CJK extension blocks other than Extension B. Also, Extensi
 ## Contributors
 - Main: **[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**, [Usagixineist](https://github.com/Usagixineist), [Cod'dte](https://github.com/buwuzhengyedexiaoji), [PakMa Tsyn](https://github.com/PakMaTsyn)
 - Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), [Xiuer](https://github.com/Steve-Yuu), Humework
-- Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [Siphercase](https://github.com/Siphercase)
+- Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [Siphercase](https://github.com/Siphercase), [Losketch](https://github.com/Losketch)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
 
@@ -54,9 +53,9 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 ### 1. Why are there two font files for Plangothic?
 - Because the maximum number of glyphs a font can hold is limited (to 65535), while the total count of CJK ideographs is much greater than this value.
 ### 2. What is the difference between *fallback* and *allideo* versions for P1?
-- The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be replaced by the Hanazono Mincho font. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
+- The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be supplement by the [Lorchin Sans](https://github.com/Losketch/LorchinSans). Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
 ### 3. Why P1 is divided into two types?
-- Because all characters in extensions G and H covered by P2, have been included, so there is no need to divide P2.
+- Because all characters in extensions G, extensions H and extensions J covered by P2, have been included, so there is no need to divide P2.
 ### 4. Why does this project just include a small amount of CJK ideographs in the URO and extensions A?
 - Since the purpose of this project is "supplement all the extension blocks of CJK Unified Ideographs based on [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) CN", needs of using CJK ideographs in the URO and Extension A blocks can be solved by directly using the Source Han Sans font. As for these CJK ideographs scattered in the URO and Extension A, included in this project are CJK ideographs with glyph changes in Unicode or inconsistent with the purpose of this project. Before adding these CJK ideographs to the project, they have been compared with other mainstream fonts and glyphs in the Unicode.
 ### 5. Will there be a version containing other weights (or other local glyphs) in the future?
@@ -104,20 +103,21 @@ If you have any questions or suggestions during the use of this font, please fee
 3. The members of this project are not professional font designers, so the font structure may not be aesthetically pleasing, and the added text may have a slight inconsistency compared to the original version. In addition, due to the limited time and energy of the members, there is no extra time for the project to refine. Some parts of the Chinese characters will be assembled very rigidly. Therefore, we cannot guarantee the accuracy of the font data and whether the expected presentation effect can be perfectly reproduced on your device. The author makes no express or implied warranties about this font, nor assumes any responsibility for any claims, damages, or attributable reasons arising from your use of this font.
 4. Some of the Chinese Mainland glyphs included in this font **DO NOT** fully follow the fonts displayed in the [Unicode charts file](https://www.unicode.org/charts/). If you mind or cannot accept, please do not use this font.
 5. This project borrows and/or refers to other tools and/or open-source font projects in part or whole, mainly including:
-    - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans)。
+    - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
     - Other fonts in the Noto series.
-    - [Glyphwiki](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8) and KAGE Engine developed by [Kamichi Koichi](https://twitter.com/kamichikoichi)。
-    - [すきまゴシック（Sukima Gothic）](https://oppekebekkanko.booth.pm/items/2117070)。
-    - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L)。
+    - [Glyphwiki](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8) and KAGE Engine developed by [Kamichi Koichi](https://twitter.com/kamichikoichi).
+    - [すきまゴシック（Sukima Gothic）](https://oppekebekkanko.booth.pm/items/2117070).
+    - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L).
     - [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk)。
-    - [Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) developed by [Buernia](https://github.com/Buernia)。
-    - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
-    - [Nôm Na Tống](https://github.com/nomfoundation/font)。
-    - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone)。
-    - [Zitools](https://zi.tools) developed by [Yi Bai](https://github.com/yi-bai)。
-    - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
-    - [Unicode charts file](https://www.unicode.org/charts/)。
-    - [Unihan database](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) developed by [Buernia](https://github.com/Buernia).
+    - [ChiuKong Gothic](https://github.com/ChiuMing-Neko/ChiuKongGothic).
+    - [Nôm Na Tống](https://github.com/nomfoundation/font).
+    - [BabelStone Han](https://www.babelstone.co.uk/Fonts/index.html) developed by [Andrew West](https://twitter.com/BabelStone).
+    - [Zitools](https://zi.tools) developed by [Yi Bai](https://github.com/yi-bai).
+    - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen).
+    - [Unicode charts file](https://www.unicode.org/charts/).
+    - [Unihan database](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip).
+    - [Lorchin Sans](https://github.com/Losketch/LorchinSans) developed by [Losketch](https://github.com/Losketch).
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
     For example, the display result of `<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>` will be:

@@ -14,10 +14,10 @@
 </div>
 
 ## 概述
-遍黑体项目是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩越统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于 2020 年 6 月前后启动。
+遍黑体项目是基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)，并以中国大陆字形为标准的对中日韩统一表意文字扩展区进行字形补充的项目，是「遍宇宙家族」中的一个子项目，该项目于2020年6月前后启动。
 
 ## 收录范围
-本字体现已支援除扩展 B 区以外全部位于扩展区的 CJK 统一汉字，扩展 C、D、E、F、I 区尚未进行精修，其他非汉字区块散有字形。
+本字体主要支援扩展B区至扩展J区的全部汉字，其他区块有零星的字符。
 
 > [!WARNING]
 >
@@ -25,7 +25,7 @@
 ## 贡献者
 - 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
 - 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、Humework
-- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)
+- 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)、[Losketch](https://github.com/Losketch)
 
 还有不少其他曾经向遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
 
@@ -55,10 +55,10 @@
 ## 常见问题
 ### 1. 为什么遍黑体是两个字体文件？
 - 因为一个字体所能容纳的字形数量有限（65535 个），而表意文字的总数量远大于这个值。
-### 2. P1 名称中的 fallback 和 allideo 有什么区别？
-- fallback 文件适用于目前已安装的字体**能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。allideo文件适用于目前已安装的字体**不能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将使用花园明朝（Hanazono Mincho）取代之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback 文件将会消失。
-### 3. 为什么只有 P1 的字体文件是两个类别？
-- 因为 P2 所涵盖的扩展 G 区、扩展 H 区的表意文字均已全部制作完毕，毋须再进行划分。
+### 2. P1名称中的fallback和allideo有什么区别？
+- fallback文件适用于目前已安装的字体**能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。allideo文件适用于目前已安装的字体**不能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将使用[落尘无衬](https://github.com/Losketch/LorchinSans)补充之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback文件将会消失。
+### 3. 为什么只有P1的字体文件是两个类别？
+- 因为P2所涵盖的扩展G区、扩展H区、扩展J区的表意文字均已全部制作完毕，毋须再进行划分。
 ### 4. 为什么这个项目包含少量基本区和扩展 A 区的汉字？
 - 因为本项目的宗旨是「基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行的补充」，如需显示基本区和扩展 A 区的表意文字，直接使用思源黑体即可。本项目中所包含的零星的基本区和扩展 A 区的表意文字均为在 Unicode 内**有字形改动或者不符合本项目宗旨**的表意文字。本项目在添加这些表意文字之前均已与其他主流字体和 Unicode 码表内字形进行过比对。
 ### 5. 未来是否会做包含其他字重（或其他地区字形）的版本？
@@ -127,11 +127,12 @@
     - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑体](https://github.com/Buernia/Zhudou-Sans)。
     - [秋空黑体](https://github.com/ChiuMing-Neko/ChiuKongGothic)。
     - [Nôm Na Tống（喃那宋）](https://github.com/nomfoundation/font)。
-    - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的 [BabelStone Han（巴別宋）](https://www.babelstone.co.uk/Fonts/index.html)。
+    - [魏安（Andrew West）](https://twitter.com/BabelStone)所开发的 [BabelStone Han（巴别宋）](https://www.babelstone.co.uk/Fonts/index.html)。
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
     - [Gothic Nguyen（阮黑体）](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicode官方码表文件](https://www.unicode.org/charts/)。
     - [Unihan数据库](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Losketch](https://github.com/Losketch)所开发的[落尘无衬](https://github.com/Losketch/LorchinSans)。
 6. 该项目的字形资料由 [Hulenkius](https://github.com/Hulenkius) 通过 SVG 文件进行线上使用，使用者可以通过「<https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg>」链接获取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：
