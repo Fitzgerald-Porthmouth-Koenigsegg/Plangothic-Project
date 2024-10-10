@@ -23,7 +23,7 @@ This font mainly supports all CJK ideographs from extension B to extension J, wi
 > This font is currently uncompleted and still lacks large numbers of CJK ideographs.
 ## Contributors
 - Main: **[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**, [Usagixineist](https://github.com/Usagixineist), [Cod'dte](https://github.com/buwuzhengyedexiaoji), [PakMa Tsyn](https://github.com/PakMaTsyn)
-- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), [Xiuer](https://github.com/Steve-Yuu), Humework
+- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), Humework
 - Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [Siphercase](https://github.com/Siphercase), [Losketch](https://github.com/Losketch)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
@@ -53,7 +53,7 @@ This font is published under the [SIL Open Font License](https://openfontlicense
 ### 1. Why are there two font files for Plangothic?
 - Because the maximum number of glyphs a font can hold is limited (to 65535), while the total count of CJK ideographs is much greater than this value.
 ### 2. What is the difference between *fallback* and *allideo* versions for P1?
-- The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be supplement by the [Lorchin Sans](https://github.com/Losketch/LorchinSans). Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
+- The *fallback* version is suitable for users who currently have installed fonts that **CAN DISPLAY** all CJK ideographs, and the CJK ideographs we have not included will be empty. The *allideo* version is suitable for users who currently have installed fonts that **CANNOT DISPLAY** all CJK ideographs, in which the CJK ideographs that have **NOT** been included will be supplement by the Hanazono Mincho. Both files can be used to find out our current progress. When this project has completely covered all CJK ideographs, the *fallback* file will be removed.
 ### 3. Why P1 is divided into two types?
 - Because all characters in extensions G, extensions H and extensions J covered by P2, have been included, so there is no need to divide P2.
 ### 4. Why does this project just include a small amount of CJK ideographs in the URO and extensions A?

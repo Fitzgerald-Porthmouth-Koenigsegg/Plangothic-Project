@@ -23,7 +23,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 > このフォントは現在未完成の段階にあり、まだ大量の漢字が不足している。
 ## 主な開発メンバー
 - 制作コア：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
-- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、Humework
+- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、Humework
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)、[Losketch](https://github.com/Losketch)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
@@ -53,7 +53,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 ### 1. なぜ Plangothic のフォントファイルは 2 つあるのですか？
 - 1 フォントファイルあたりの最大グリフ数は 65535 に制限されていますが、CJK 統合漢字の数はこれよりはるかに多いからです。
 ### 2. P1のfallback版とallideo版の違いは何ですか？
-- fallback版は、すべてのCJK統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo版は、すべてのCJK統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を[落尘無襯](https://github.com/Losketch/LorchinSans)で補足される。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべてのCJK統合漢字を完全に上書きした場合、fallback版はなくなります。
+- fallback版は、すべてのCJK統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo版は、すべてのCJK統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で補足される。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべてのCJK統合漢字を完全に上書きした場合、fallback版はなくなります。
 ### 3. なぜP1だけが2種類に分かれているのですか？
 - P2に含まれる拡張G、拡張H、拡張Jの漢字は全て制作済みなので、区分する必要がないからです。
 ### 4. なぜこのプロジェクトには URO（基本ブロック）と拡張 A の漢字が少量含まれているのですか？

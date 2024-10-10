@@ -24,7 +24,7 @@
 > 该字体目前处于未完成阶段，仍然缺少大量汉字。
 ## 贡献者
 - 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[Cod'dte](https://github.com/buwuzhengyedexiaoji)、[PakMa Tsyn](https://github.com/PakMaTsyn)
-- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Xiuer](https://github.com/Steve-Yuu)、Humework
+- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、Humework
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Siphercase](https://github.com/Siphercase)、[Losketch](https://github.com/Losketch)
 
 还有不少其他曾经向遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
@@ -56,7 +56,7 @@
 ### 1. 为什么遍黑体是两个字体文件？
 - 因为一个字体所能容纳的字形数量有限（65535 个），而表意文字的总数量远大于这个值。
 ### 2. P1名称中的fallback和allideo有什么区别？
-- fallback文件适用于目前已安装的字体**能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。allideo文件适用于目前已安装的字体**不能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将使用[落尘无衬](https://github.com/Losketch/LorchinSans)补充之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback文件将会消失。
+- fallback文件适用于目前已安装的字体**能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。allideo文件适用于目前已安装的字体**不能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将使用花园明朝（Hanazono Mincho）补充之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback文件将会消失。
 ### 3. 为什么只有P1的字体文件是两个类别？
 - 因为P2所涵盖的扩展G区、扩展H区、扩展J区的表意文字均已全部制作完毕，毋须再进行划分。
 ### 4. 为什么这个项目包含少量基本区和扩展 A 区的汉字？
